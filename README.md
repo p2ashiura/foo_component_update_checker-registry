@@ -1,0 +1,2 @@
+# foo_component_update_checker-registry
+
