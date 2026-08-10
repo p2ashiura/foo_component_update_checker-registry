@@ -88,9 +88,31 @@ Pull requests adding new entries to `known_components.json` are welcome
 ready-to-paste snippet for this). When reviewing/merging, please also
 update the table above in the same commit.
 
+This file only contains entries added via reviewed pull requests. Nothing
+is collected automatically or scraped — every URL in this repository was
+manually proposed and merged.
+
+Maintainers review pull requests before merging, but cannot guarantee the
+safety or continued availability of every linked repository. Use your own
+judgment before visiting a release page.
+
 **日本語**
 
 `known_components.json`への新規エントリ追加のPull Requestを歓迎する
 (コンポーネント側の「Suggest for Shared Registry...」ボタンから、そのまま
 貼り付けられるスニペットを生成できる)。レビュー・マージの際は、同じ
 コミットで上記の表も更新すること。
+
+このファイルに含まれるのは、レビュー済みのPull Requestで追加されたエントリのみ。
+自動的な収集やスクレイピングは一切行っていない — ここに載っているURLは、
+すべて手動で提案され、マージされたものである。
+
+メンテナーはマージ前にPull Requestをレビューするが、リンク先の各リポジトリの
+安全性や継続的な可用性までは保証できない。リリースページを開く際は、
+自己の判断で利用すること。
+
+## License / ライセンス
+
+MIT License. See [`LICENSE`](LICENSE) for the full text.
+
+MITライセンス。全文は[`LICENSE`](LICENSE)を参照。
