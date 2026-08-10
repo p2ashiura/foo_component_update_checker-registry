@@ -8,12 +8,6 @@
       "repo": "Album-Train"
     },
     {
-      "dll": "foo_jscript_panel3",
-      "source": "github",
-      "owner": "jscript-panel",
-      "repo": "release"
-    },
-    {
       "dll": "foo_spider_monkey_panel",
       "source": "github",
       "owner": "TheQwertiest",
@@ -36,6 +30,15 @@
       "source": "github",
       "owner": "stuerp",
       "repo": "foo_midi"
+    }
+  ],
+  "disabled": [
+    {
+      "dll": "foo_jscript_panel3",
+      "source": "github",
+      "owner": "jscript-panel",
+      "repo": "release",
+      "reason": "Releases page no longer exists as of 2026-08. Development appears abandoned. Kept here for reference only; not read by the app (only \"components\" is parsed)."
     }
   ]
 }

@@ -26,11 +26,28 @@ add or edit an entry there, please update this table in the same commit
 | DLL name | Source repository |
 | --- | --- |
 | `foo_albumtrain` | [p2ashiura/Album-Train](https://github.com/p2ashiura/Album-Train) |
-| `foo_jscript_panel3` | [jscript-panel/release](https://github.com/jscript-panel/release) |
 | `foo_spider_monkey_panel` | [TheQwertiest/foo_spider_monkey_panel](https://github.com/TheQwertiest/foo_spider_monkey_panel) |
 | `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
 | `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 | `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
+
+### Disabled / 無効化済み
+
+**English**
+
+These entries are kept in `known_components.json` under a separate
+`disabled` key (not `components`), so the app never reads them. Listed
+here for reference only.
+
+| DLL name | Former repository | Reason |
+| --- | --- | --- |
+| `foo_jscript_panel3` | jscript-panel/release | Releases page no longer exists as of 2026-08; development appears abandoned |
+
+**日本語**
+
+これらのエントリは`known_components.json`内の`components`ではなく別の
+`disabled`キーに保持しており、アプリ側からは読まれない。参考情報として
+記載しているのみ。
 
 **日本語**
 
