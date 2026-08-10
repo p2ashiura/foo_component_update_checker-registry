@@ -15,6 +15,28 @@ foobar2000コンポーネントのDLL名と、その公開リポジトリ(現時
 対応付けた、単一の静的JSONファイル(`known_components.json`)を置いている。
 `raw.githubusercontent.com`経由で匿名取得するだけなので、サーバーやAPIキーは不要。
 
+## Registered Components / 登録済みコンポーネント
+
+**English**
+
+This table is manually kept in sync with `known_components.json`. If you
+add or edit an entry there, please update this table in the same commit
+(or pull request).
+
+| DLL name | Source repository |
+| --- | --- |
+| `foo_albumtrain` | [p2ashiura/Album-Train](https://github.com/p2ashiura/Album-Train) |
+| `foo_jscript_panel3` | [jscript-panel/release](https://github.com/jscript-panel/release) |
+| `foo_spider_monkey_panel` | [TheQwertiest/foo_spider_monkey_panel](https://github.com/TheQwertiest/foo_spider_monkey_panel) |
+| `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
+| `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
+| `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
+
+**日本語**
+
+この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
+同じコミット(またはPull Request)でこの表も更新すること。
+
 ## Schema
 
 ```json
@@ -39,3 +61,19 @@ always take priority over entries here.
 ユーザーが[foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)側
 (Preferences → Tools → Component Update Checker → Manage Repositories...)で
 直接登録した内容は、常にこちらより優先される。
+
+## Contributing / 投稿について
+
+**English**
+
+Pull requests adding new entries to `known_components.json` are welcome
+(the component's "Suggest for Shared Registry..." button generates a
+ready-to-paste snippet for this). When reviewing/merging, please also
+update the table above in the same commit.
+
+**日本語**
+
+`known_components.json`への新規エントリ追加のPull Requestを歓迎する
+(コンポーネント側の「Suggest for Shared Registry...」ボタンから、そのまま
+貼り付けられるスニペットを生成できる)。レビュー・マージの際は、同じ
+コミットで上記の表も更新すること。

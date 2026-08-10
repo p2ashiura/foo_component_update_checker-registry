@@ -6,6 +6,36 @@
       "source": "github",
       "owner": "p2ashiura",
       "repo": "Album-Train"
+    },
+    {
+      "dll": "foo_jscript_panel3",
+      "source": "github",
+      "owner": "jscript-panel",
+      "repo": "release"
+    },
+    {
+      "dll": "foo_spider_monkey_panel",
+      "source": "github",
+      "owner": "TheQwertiest",
+      "repo": "foo_spider_monkey_panel"
+    },
+    {
+      "dll": "foo_uie_webview",
+      "source": "github",
+      "owner": "stuerp",
+      "repo": "foo_uie_webview"
+    },
+    {
+      "dll": "foo_vis_spectrum_analyzer",
+      "source": "github",
+      "owner": "stuerp",
+      "repo": "foo_vis_spectrum_analyzer"
+    },
+    {
+      "dll": "foo_midi",
+      "source": "github",
+      "owner": "stuerp",
+      "repo": "foo_midi"
     }
   ]
 }
