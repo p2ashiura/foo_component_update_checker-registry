@@ -10,7 +10,7 @@
     {
       "dll": "foo_spider_monkey_panel",
       "source": "github",
-      "owner": "TheQwertiest",
+      "owner": "theqwertiest",
       "repo": "foo_spider_monkey_panel"
     },
     {
@@ -30,6 +30,54 @@
       "source": "github",
       "owner": "stuerp",
       "repo": "foo_midi"
+    },
+    {
+      "dll": "foo_strip",
+      "source": "github",
+      "owner": "masterrite",
+      "repo": "Foo_strip"
+    },
+    {
+      "dll": "foo_previous",
+      "source": "github",
+      "owner": "terachot",
+      "repo": "Playback_History_-foo_previous-"
+    },
+    {
+      "dll": "foo_ui_columns",
+      "source": "github",
+      "owner": "reupen",
+      "repo": "columns_ui"
+    },
+    {
+      "dll": "foo_podcast",
+      "source": "github",
+      "owner": "zetmar-collab",
+      "repo": "foo_podcast"
+    },
+    {
+      "dll": "foo_mixcloud",
+      "source": "github",
+      "owner": "zetmar-collab",
+      "repo": "foo_mixcloud"
+    },
+    {
+      "dll": "foo_openhacks_mod",
+      "source": "github",
+      "owner": "simear2004",
+      "repo": "foo_openhacks_mod"
+    },
+    {
+      "dll": "foo_vbookmark",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_vbookmark"
+    },
+    {
+      "dll": "foo_component_update_checker",
+      "source": "github",
+      "owner": "p2ashiura",
+      "repo": "foo_component_update_checker"
     }
   ],
   "disabled": [
@@ -38,7 +86,8 @@
       "source": "github",
       "owner": "jscript-panel",
       "repo": "release",
-      "reason": "Releases page no longer exists as of 2026-08. Development appears abandoned. Kept here for reference only; not read by the app (only \"components\" is parsed)."
+      "reason": "Releases page no longer exists as of 2026-08; development appears abandoned"
     }
   ]
 }
+

@@ -1,0 +1,9 @@
+# 登録データ管理用のExcelファイル(ローカル作業用、コミットしない)
+registry_manager*.xlsx
+registry_manager*.xlsm
+~$*.xlsx
+~$*.xlsm
+
+# マクロ実行時に生成される中間ファイル(内容を確認後、手動でknown_components.jsonへ反映する)
+registry_table_components.md
+registry_table_disabled.md

@@ -26,10 +26,19 @@ add or edit an entry there, please update this table in the same commit
 | DLL name | Source repository |
 | --- | --- |
 | `foo_albumtrain` | [p2ashiura/Album-Train](https://github.com/p2ashiura/Album-Train) |
-| `foo_spider_monkey_panel` | [TheQwertiest/foo_spider_monkey_panel](https://github.com/TheQwertiest/foo_spider_monkey_panel) |
+| `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel](https://github.com/theqwertiest/foo_spider_monkey_panel) |
 | `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
 | `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 | `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
+| `foo_strip` | [masterrite/Foo_strip](https://github.com/masterrite/Foo_strip) |
+| `foo_previous` | [terachot/Playback_History_-foo_previous-](https://github.com/terachot/Playback_History_-foo_previous-) |
+| `foo_ui_columns` | [reupen/columns_ui](https://github.com/reupen/columns_ui) |
+| `foo_podcast` | [zetmar-collab/foo_podcast](https://github.com/zetmar-collab/foo_podcast) |
+| `foo_mixcloud` | [zetmar-collab/foo_mixcloud](https://github.com/zetmar-collab/foo_mixcloud) |
+| `foo_openhacks_mod` | [simear2004/foo_openhacks_mod](https://github.com/simear2004/foo_openhacks_mod) |
+| `foo_vbookmark` | [ghDaYuYu/foo_vbookmark](https://github.com/ghDaYuYu/foo_vbookmark) |
+| `foo_component_update_checker` | [p2ashiura/foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker) |
+
 
 ### Disabled / 無効化済み
 
