@@ -26,19 +26,35 @@ add or edit an entry there, please update this table in the same commit
 | DLL name | Source repository |
 | --- | --- |
 | `foo_albumtrain` | [p2ashiura/Album-Train](https://github.com/p2ashiura/Album-Train) |
-| `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel](https://github.com/theqwertiest/foo_spider_monkey_panel) |
-| `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
-| `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
-| `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
-| `foo_strip` | [masterrite/Foo_strip](https://github.com/masterrite/Foo_strip) |
-| `foo_previous` | [terachot/Playback_History_-foo_previous-](https://github.com/terachot/Playback_History_-foo_previous-) |
-| `foo_ui_columns` | [reupen/columns_ui](https://github.com/reupen/columns_ui) |
-| `foo_podcast` | [zetmar-collab/foo_podcast](https://github.com/zetmar-collab/foo_podcast) |
-| `foo_mixcloud` | [zetmar-collab/foo_mixcloud](https://github.com/zetmar-collab/foo_mixcloud) |
-| `foo_openhacks_mod` | [simear2004/foo_openhacks_mod](https://github.com/simear2004/foo_openhacks_mod) |
-| `foo_vbookmark` | [ghDaYuYu/foo_vbookmark](https://github.com/ghDaYuYu/foo_vbookmark) |
+| `foo_artist_view` | [veselyvaclavcz/foo_artist_view](https://github.com/veselyvaclavcz/foo_artist_view) |
+| `foo_artwork` | [jame25/foo_artwork](https://github.com/jame25/foo_artwork) |
 | `foo_component_update_checker` | [p2ashiura/foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker) |
-
+| `foo_coverflow` | [ghDaYuYu/foo_coverflow](https://github.com/ghDaYuYu/foo_coverflow) |
+| `foo_discogger` | [ghDaYuYu/foo_discogger](https://github.com/ghDaYuYu/foo_discogger) |
+| `foo_flowin` | [ttsping/foo_flowin](https://github.com/ttsping/foo_flowin) |
+| `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
+| `foo_mixcloud` | [zetmar-collab/foo_mixcloud](https://github.com/zetmar-collab/foo_mixcloud) |
+| `foo_nowbar` | [jame25/foo_nowbar](https://github.com/jame25/foo_nowbar) |
+| `foo_nowplaying2` | [foxx1337/foo_nowplaying2](https://github.com/foxx1337/foo_nowplaying2) |
+| `foo_openhacks` | [ttsping/foo_openhacks](https://github.com/ttsping/foo_openhacks) |
+| `foo_openhacks_mod` | [simear2004/foo_openhacks_mod](https://github.com/simear2004/foo_openhacks_mod) |
+| `foo_openlyrics` | [jacquesh/foo_openlyrics](https://github.com/jacquesh/foo_openlyrics) |
+| `foo_podcast` | [zetmar-collab/foo_podcast](https://github.com/zetmar-collab/foo_podcast) |
+| `foo_previous` | [terachot/Playback_History_-foo_previous-](https://github.com/terachot/Playback_History_-foo_previous-) |
+| `foo_queue_editor` | [ghDaYuYu/foo_queue_editor](https://github.com/ghDaYuYu/foo_queue_editor) |
+| `foo_queuecontents` | [ssalonen/foo_queuecontents](https://github.com/ssalonen/foo_queuecontents) |
+| `foo_resume` | [reda777/foo_resume](https://github.com/reda777/foo_resume) |
+| `foo_run_xgrp` | [ghDaYuYu/foo_run_xgrp](https://github.com/ghDaYuYu/foo_run_xgrp) |
+| `foo_scrobble` | [gix/foo_scrobble](https://github.com/gix/foo_scrobble) |
+| `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel](https://github.com/theqwertiest/foo_spider_monkey_panel) |
+| `foo_strip` | [masterrite/Foo_strip](https://github.com/masterrite/Foo_strip) |
+| `foo_traycontrols` | [jame25/foo_traycontrols](https://github.com/jame25/foo_traycontrols) |
+| `foo_ui_columns` | [reupen/columns_ui](https://github.com/reupen/columns_ui) |
+| `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
+| `foo_uie_webview` | [jecassis/foo_uie_webview](https://github.com/jecassis/foo_uie_webview) |
+| `foo_vbookmark` | [ghDaYuYu/foo_vbookmark](https://github.com/ghDaYuYu/foo_vbookmark) |
+| `foo_vis_milk2` | [jecassis/foo_vis_milk2](https://github.com/jecassis/foo_vis_milk2) |
+| `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 
 ### Disabled / 無効化済み
 

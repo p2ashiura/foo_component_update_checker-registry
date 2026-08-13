@@ -8,22 +8,40 @@
       "repo": "Album-Train"
     },
     {
-      "dll": "foo_spider_monkey_panel",
+      "dll": "foo_artist_view",
       "source": "github",
-      "owner": "theqwertiest",
-      "repo": "foo_spider_monkey_panel"
+      "owner": "veselyvaclavcz",
+      "repo": "foo_artist_view"
     },
     {
-      "dll": "foo_uie_webview",
+      "dll": "foo_artwork",
       "source": "github",
-      "owner": "stuerp",
-      "repo": "foo_uie_webview"
+      "owner": "jame25",
+      "repo": "foo_artwork"
     },
     {
-      "dll": "foo_vis_spectrum_analyzer",
+      "dll": "foo_component_update_checker",
       "source": "github",
-      "owner": "stuerp",
-      "repo": "foo_vis_spectrum_analyzer"
+      "owner": "p2ashiura",
+      "repo": "foo_component_update_checker"
+    },
+    {
+      "dll": "foo_coverflow",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_coverflow"
+    },
+    {
+      "dll": "foo_discogger",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_discogger"
+    },
+    {
+      "dll": "foo_flowin",
+      "source": "github",
+      "owner": "ttsping",
+      "repo": "foo_flowin"
     },
     {
       "dll": "foo_midi",
@@ -32,34 +50,28 @@
       "repo": "foo_midi"
     },
     {
-      "dll": "foo_strip",
-      "source": "github",
-      "owner": "masterrite",
-      "repo": "Foo_strip"
-    },
-    {
-      "dll": "foo_previous",
-      "source": "github",
-      "owner": "terachot",
-      "repo": "Playback_History_-foo_previous-"
-    },
-    {
-      "dll": "foo_ui_columns",
-      "source": "github",
-      "owner": "reupen",
-      "repo": "columns_ui"
-    },
-    {
-      "dll": "foo_podcast",
-      "source": "github",
-      "owner": "zetmar-collab",
-      "repo": "foo_podcast"
-    },
-    {
       "dll": "foo_mixcloud",
       "source": "github",
       "owner": "zetmar-collab",
       "repo": "foo_mixcloud"
+    },
+    {
+      "dll": "foo_nowbar",
+      "source": "github",
+      "owner": "jame25",
+      "repo": "foo_nowbar"
+    },
+    {
+      "dll": "foo_nowplaying2",
+      "source": "github",
+      "owner": "foxx1337",
+      "repo": "foo_nowplaying2"
+    },
+    {
+      "dll": "foo_openhacks",
+      "source": "github",
+      "owner": "ttsping",
+      "repo": "foo_openhacks"
     },
     {
       "dll": "foo_openhacks_mod",
@@ -68,16 +80,106 @@
       "repo": "foo_openhacks_mod"
     },
     {
+      "dll": "foo_openlyrics",
+      "source": "github",
+      "owner": "jacquesh",
+      "repo": "foo_openlyrics"
+    },
+    {
+      "dll": "foo_podcast",
+      "source": "github",
+      "owner": "zetmar-collab",
+      "repo": "foo_podcast"
+    },
+    {
+      "dll": "foo_previous",
+      "source": "github",
+      "owner": "terachot",
+      "repo": "Playback_History_-foo_previous-"
+    },
+    {
+      "dll": "foo_queue_editor",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_queue_editor"
+    },
+    {
+      "dll": "foo_queuecontents",
+      "source": "github",
+      "owner": "ssalonen",
+      "repo": "foo_queuecontents"
+    },
+    {
+      "dll": "foo_resume",
+      "source": "github",
+      "owner": "reda777",
+      "repo": "foo_resume"
+    },
+    {
+      "dll": "foo_run_xgrp",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_run_xgrp"
+    },
+    {
+      "dll": "foo_scrobble",
+      "source": "github",
+      "owner": "gix",
+      "repo": "foo_scrobble"
+    },
+    {
+      "dll": "foo_spider_monkey_panel",
+      "source": "github",
+      "owner": "theqwertiest",
+      "repo": "foo_spider_monkey_panel"
+    },
+    {
+      "dll": "foo_strip",
+      "source": "github",
+      "owner": "masterrite",
+      "repo": "Foo_strip"
+    },
+    {
+      "dll": "foo_traycontrols",
+      "source": "github",
+      "owner": "jame25",
+      "repo": "foo_traycontrols"
+    },
+    {
+      "dll": "foo_ui_columns",
+      "source": "github",
+      "owner": "reupen",
+      "repo": "columns_ui"
+    },
+    {
+      "dll": "foo_uie_webview",
+      "source": "github",
+      "owner": "stuerp",
+      "repo": "foo_uie_webview"
+    },
+    {
+      "dll": "foo_uie_webview",
+      "source": "github",
+      "owner": "jecassis",
+      "repo": "foo_uie_webview"
+    },
+    {
       "dll": "foo_vbookmark",
       "source": "github",
       "owner": "ghDaYuYu",
       "repo": "foo_vbookmark"
     },
     {
-      "dll": "foo_component_update_checker",
+      "dll": "foo_vis_milk2",
       "source": "github",
-      "owner": "p2ashiura",
-      "repo": "foo_component_update_checker"
+      "owner": "jecassis",
+      "repo": "foo_vis_milk2"
+    },
+    {
+      "dll": "foo_vis_spectrum_analyzer",
+      "source": "github",
+      "owner": "stuerp",
+      "repo": "foo_vis_spectrum_analyzer"
     }
   ],
   "disabled": [
