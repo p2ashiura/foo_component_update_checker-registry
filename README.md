@@ -5,13 +5,13 @@ a foobar2000 component that checks installed components for updates.
 
 This repository contains a single static JSON file (`known_components.json`)
 mapping foobar2000 component DLL names to their public source repositories
-(currently GitHub only). It's fetched anonymously via
+(GitHub, GitLab, or Codeberg). It's fetched anonymously via
 `raw.githubusercontent.com`, so no server or API key is needed.
 
 [foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)
 (foobar2000用の更新確認コンポーネント)が参照する既知コンポーネント一覧。
 
-foobar2000コンポーネントのDLL名と、その公開リポジトリ(現時点ではGitHubのみ)を
+foobar2000コンポーネントのDLL名と、その公開リポジトリ(GitHub・GitLab・Codeberg)を
 対応付けた、単一の静的JSONファイル(`known_components.json`)を置いている。
 `raw.githubusercontent.com`経由で匿名取得するだけなので、サーバーやAPIキーは不要。
 
@@ -25,36 +25,36 @@ add or edit an entry there, please update this table in the same commit
 
 | DLL name | Source repository |
 | --- | --- |
-| `foo_albumtrain` | [p2ashiura/Album-Train](https://github.com/p2ashiura/Album-Train) |
-| `foo_artist_view` | [veselyvaclavcz/foo_artist_view](https://github.com/veselyvaclavcz/foo_artist_view) |
-| `foo_artwork` | [jame25/foo_artwork](https://github.com/jame25/foo_artwork) |
-| `foo_component_update_checker` | [p2ashiura/foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker) |
-| `foo_coverflow` | [ghDaYuYu/foo_coverflow](https://github.com/ghDaYuYu/foo_coverflow) |
-| `foo_discogger` | [ghDaYuYu/foo_discogger](https://github.com/ghDaYuYu/foo_discogger) |
-| `foo_flowin` | [ttsping/foo_flowin](https://github.com/ttsping/foo_flowin) |
-| `foo_midi` | [stuerp/foo_midi](https://github.com/stuerp/foo_midi) |
-| `foo_mixcloud` | [zetmar-collab/foo_mixcloud](https://github.com/zetmar-collab/foo_mixcloud) |
-| `foo_nowbar` | [jame25/foo_nowbar](https://github.com/jame25/foo_nowbar) |
-| `foo_nowplaying2` | [foxx1337/foo_nowplaying2](https://github.com/foxx1337/foo_nowplaying2) |
-| `foo_openhacks` | [ttsping/foo_openhacks](https://github.com/ttsping/foo_openhacks) |
-| `foo_openhacks_mod` | [simear2004/foo_openhacks_mod](https://github.com/simear2004/foo_openhacks_mod) |
-| `foo_openlyrics` | [jacquesh/foo_openlyrics](https://github.com/jacquesh/foo_openlyrics) |
-| `foo_podcast` | [zetmar-collab/foo_podcast](https://github.com/zetmar-collab/foo_podcast) |
-| `foo_previous` | [terachot/Playback_History_-foo_previous-](https://github.com/terachot/Playback_History_-foo_previous-) |
-| `foo_queue_editor` | [ghDaYuYu/foo_queue_editor](https://github.com/ghDaYuYu/foo_queue_editor) |
-| `foo_queuecontents` | [ssalonen/foo_queuecontents](https://github.com/ssalonen/foo_queuecontents) |
-| `foo_resume` | [reda777/foo_resume](https://github.com/reda777/foo_resume) |
-| `foo_run_xgrp` | [ghDaYuYu/foo_run_xgrp](https://github.com/ghDaYuYu/foo_run_xgrp) |
-| `foo_scrobble` | [gix/foo_scrobble](https://github.com/gix/foo_scrobble) |
-| `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel](https://github.com/theqwertiest/foo_spider_monkey_panel) |
-| `foo_strip` | [masterrite/Foo_strip](https://github.com/masterrite/Foo_strip) |
-| `foo_traycontrols` | [jame25/foo_traycontrols](https://github.com/jame25/foo_traycontrols) |
-| `foo_ui_columns` | [reupen/columns_ui](https://github.com/reupen/columns_ui) |
-| `foo_uie_webview` | [stuerp/foo_uie_webview](https://github.com/stuerp/foo_uie_webview) |
-| `foo_uie_webview` | [jecassis/foo_uie_webview](https://github.com/jecassis/foo_uie_webview) |
-| `foo_vbookmark` | [ghDaYuYu/foo_vbookmark](https://github.com/ghDaYuYu/foo_vbookmark) |
-| `foo_vis_milk2` | [jecassis/foo_vis_milk2](https://github.com/jecassis/foo_vis_milk2) |
-| `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
+| `foo_albumtrain` | [p2ashiura/Album-Train (github)](https://github.com/p2ashiura/Album-Train) |
+| `foo_artist_view` | [veselyvaclavcz/foo_artist_view (github)](https://github.com/veselyvaclavcz/foo_artist_view) |
+| `foo_artwork` | [jame25/foo_artwork (github)](https://github.com/jame25/foo_artwork) |
+| `foo_component_update_checker` | [p2ashiura/foo_component_update_checker (github)](https://github.com/p2ashiura/foo_component_update_checker) |
+| `foo_coverflow` | [ghDaYuYu/foo_coverflow (github)](https://github.com/ghDaYuYu/foo_coverflow) |
+| `foo_discogger` | [ghDaYuYu/foo_discogger (github)](https://github.com/ghDaYuYu/foo_discogger) |
+| `foo_flowin` | [ttsping/foo_flowin (github)](https://github.com/ttsping/foo_flowin) |
+| `foo_midi` | [stuerp/foo_midi (github)](https://github.com/stuerp/foo_midi) |
+| `foo_mixcloud` | [zetmar-collab/foo_mixcloud (github)](https://github.com/zetmar-collab/foo_mixcloud) |
+| `foo_nowbar` | [jame25/foo_nowbar (github)](https://github.com/jame25/foo_nowbar) |
+| `foo_nowplaying2` | [foxx1337/foo_nowplaying2 (github)](https://github.com/foxx1337/foo_nowplaying2) |
+| `foo_openhacks` | [ttsping/foo_openhacks (github)](https://github.com/ttsping/foo_openhacks) |
+| `foo_openhacks_mod` | [simear2004/foo_openhacks_mod (github)](https://github.com/simear2004/foo_openhacks_mod) |
+| `foo_openlyrics` | [jacquesh/foo_openlyrics (github)](https://github.com/jacquesh/foo_openlyrics) |
+| `foo_podcast` | [zetmar-collab/foo_podcast (github)](https://github.com/zetmar-collab/foo_podcast) |
+| `foo_previous` | [terachot/Playback_History_-foo_previous- (github)](https://github.com/terachot/Playback_History_-foo_previous-) |
+| `foo_queue_editor` | [ghDaYuYu/foo_queue_editor (github)](https://github.com/ghDaYuYu/foo_queue_editor) |
+| `foo_queuecontents` | [ssalonen/foo_queuecontents (github)](https://github.com/ssalonen/foo_queuecontents) |
+| `foo_resume` | [reda777/foo_resume (github)](https://github.com/reda777/foo_resume) |
+| `foo_run_xgrp` | [ghDaYuYu/foo_run_xgrp (github)](https://github.com/ghDaYuYu/foo_run_xgrp) |
+| `foo_scrobble` | [gix/foo_scrobble (github)](https://github.com/gix/foo_scrobble) |
+| `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel (github)](https://github.com/theqwertiest/foo_spider_monkey_panel) |
+| `foo_strip` | [masterrite/Foo_strip (github)](https://github.com/masterrite/Foo_strip) |
+| `foo_traycontrols` | [jame25/foo_traycontrols (github)](https://github.com/jame25/foo_traycontrols) |
+| `foo_ui_columns` | [reupen/columns_ui (github)](https://github.com/reupen/columns_ui) |
+| `foo_uie_webview` | [stuerp/foo_uie_webview (github)](https://github.com/stuerp/foo_uie_webview) |
+| `foo_uie_webview` | [jecassis/foo_uie_webview (github)](https://github.com/jecassis/foo_uie_webview) |
+| `foo_vbookmark` | [ghDaYuYu/foo_vbookmark (github)](https://github.com/ghDaYuYu/foo_vbookmark) |
+| `foo_vis_milk2` | [jecassis/foo_vis_milk2 (github)](https://github.com/jecassis/foo_vis_milk2) |
+| `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer (github)](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 
 ### Disabled / 無効化済み
 
@@ -66,7 +66,7 @@ here for reference only.
 
 | DLL name | Former repository | Reason |
 | --- | --- | --- |
-| `foo_jscript_panel3` | jscript-panel/release | Releases page no longer exists as of 2026-08; development appears abandoned |
+| `foo_jscript_panel3` | jscript-panel/release (github) | Releases page no longer exists as of 2026-08; development appears abandoned |
 
 **日本語**
 
@@ -88,12 +88,19 @@ here for reference only.
     {
       "dll": "<DLL name, without .dll extension>",
       "source": "github",
-      "owner": "<GitHub username or org>",
-      "repo": "<GitHub repository name>"
+      "owner": "<username or org>",
+      "repo": "<repository name>"
     }
   ]
 }
 ```
+
+`source` must be one of `"github"`, `"gitlab"`, or `"codeberg"`. Other
+values are ignored by the app for now (reserved for future site support).
+
+`source`は`"github"` / `"gitlab"` / `"codeberg"`のいずれかを指定する。
+それ以外の値は、現時点ではアプリ側で無視される(将来の対応サイト拡張のために
+予約されている)。
 
 Entries registered by a user directly in
 [foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)
