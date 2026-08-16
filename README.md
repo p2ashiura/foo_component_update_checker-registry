@@ -46,6 +46,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_beefweb` | [hyperblast/beefweb (github)](https://github.com/hyperblast/beefweb) |
 | `foo_bestversion` | [hymerman/foo_bestversion (github)](https://github.com/hymerman/foo_bestversion) |
 | `foo_bookbar` | [michaldziwisz/bookbar (github)](https://github.com/michaldziwisz/bookbar) |
+| `foo_bs2b` | [sourceforge: sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin](https://sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin/) |
 | `foo_cad_nowplaying` | [ghDaYuYu/foo_cad_nowplaying (github)](https://github.com/ghDaYuYu/foo_cad_nowplaying) |
 | `foo_cad_plus` | [RangerCD/foo-cad-plus (github)](https://github.com/RangerCD/foo-cad-plus) |
 | `foo_catnap` | [stengerh/foo_catnap (github)](https://github.com/stengerh/foo_catnap) |

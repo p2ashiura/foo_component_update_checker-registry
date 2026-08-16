@@ -67,6 +67,11 @@
       "repo": "bookbar"
     },
     {
+      "dll": "foo_bs2b",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin/"
+    },
+    {
       "dll": "foo_cad_nowplaying",
       "source": "github",
       "owner": "ghDaYuYu",
