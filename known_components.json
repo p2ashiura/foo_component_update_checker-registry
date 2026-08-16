@@ -104,6 +104,11 @@
       "repo": "foo_controlserver"
     },
     {
+      "dll": "foo_cover_utils",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/cover-utils/"
+    },
+    {
       "dll": "foo_coverflow",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -144,6 +149,21 @@
       "source": "github",
       "owner": "ultrasn0w",
       "repo": "foo_drpc"
+    },
+    {
+      "dll": "foo_dsd_asio",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/sacddecoder/files/foo_dsd_asio/"
+    },
+    {
+      "dll": "foo_dsd_converter",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/sacddecoder/files/foo_dsd_converter/"
+    },
+    {
+      "dll": "foo_dsd_processor",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/sacddecoder/files/foo_dsd_processor/"
     },
     {
       "dll": "foo_dsp_health",
@@ -224,6 +244,11 @@
       "repo": "foo_input_pmd"
     },
     {
+      "dll": "foo_input_sacd",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/sacddecoder/files/foo_input_sacd/"
+    },
+    {
       "dll": "foo_input_signal",
       "source": "github",
       "owner": "stuerp",
@@ -254,6 +279,11 @@
       "repo": "foo-jscript-panel"
     },
     {
+      "dll": "foo_lastfm_playcount_sync",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/lastfm-playcount-sync/"
+    },
+    {
       "dll": "foo_lddc",
       "source": "github",
       "owner": "chenmozhijin",
@@ -270,6 +300,11 @@
       "source": "github",
       "owner": "zetmar-collab",
       "repo": "foo_mixcloud"
+    },
+    {
+      "dll": "foo_musicbrainz64",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/musicbrainz64/"
     },
     {
       "dll": "foo_nowbar",
@@ -302,6 +337,21 @@
       "repo": "foo_openlyrics"
     },
     {
+      "dll": "foo_out_asio+dsd",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/sacddecoder/files/foo_out_asio%2Bdsd/"
+    },
+    {
+      "dll": "foo_playcount_2003",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/playcount-2003/"
+    },
+    {
+      "dll": "foo_playlist_fix",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/playlist-fix/"
+    },
+    {
       "dll": "foo_podcast",
       "source": "github",
       "owner": "zetmar-collab",
@@ -318,6 +368,11 @@
       "source": "github",
       "owner": "ghDaYuYu",
       "repo": "foo_queue_editor"
+    },
+    {
+      "dll": "foo_queue_viewer",
+      "source": "marc2k3",
+      "url": "https://marc2k3.github.io/component/queue-viewer/"
     },
     {
       "dll": "foo_queuecontents",
