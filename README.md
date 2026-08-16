@@ -113,18 +113,6 @@ add or edit an entry there, please update this table in the same commit
 | `foo_vis_milk2` | [jecassis/foo_vis_milk2 (github)](https://github.com/jecassis/foo_vis_milk2) |
 | `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer (github)](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 
-No `marc2k3` or `sourceforge` entries are registered here yet — this table
-will grow to include them (e.g. `marc2k3: marc2k3.github.io/component/xxx`
-or `sourceforge: sourceforge.net/projects/<project>/files/<folder>`) as
-they're proposed and merged. See [Schema](#schema) below for the format
-these entries take.
-
-現時点では`marc2k3`・`sourceforge`のエントリはまだ登録されていない —
-提案・マージされ次第この表にも加わっていく予定(例:
-`marc2k3: marc2k3.github.io/component/xxx`や
-`sourceforge: sourceforge.net/projects/<project>/files/<folder>`)。
-これらのエントリの形式は下記の[Schema](#schema)を参照。
-
 ### Disabled / 無効化済み
 
 **English**
