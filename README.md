@@ -34,7 +34,7 @@ add or edit an entry there, please update this table in the same commit
 同じコミット(またはPull Request)でこの表も更新すること。
 
 <details>
-<summary>Click to expand (192 components) / クリックで展開(194件)</summary>
+<summary>Click to expand (194 components) / クリックで展開(194件)</summary>
 
 | DLL name | Source repository |
 | --- | --- |
