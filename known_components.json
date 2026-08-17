@@ -38,6 +38,11 @@
       "repo": "Audio-Wizard"
     },
     {
+      "dll": "foo_audiomd5",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_audiomd5"
+    },
+    {
       "dll": "foo_autoplay",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/fooautoplay/files/fooautoplay/"
@@ -65,6 +70,11 @@
       "source": "github",
       "owner": "michaldziwisz",
       "repo": "bookbar"
+    },
+    {
+      "dll": "foo_bpm",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_bpm"
     },
     {
       "dll": "foo_bs2b",
@@ -125,6 +135,16 @@
       "repo": "foo_coverflow"
     },
     {
+      "dll": "foo_cuesheet_creator",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_cuesheet_creator"
+    },
+    {
+      "dll": "foo_deemph",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_deemph"
+    },
+    {
       "dll": "foo_discogger",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -155,6 +175,11 @@
       "repo": "foo_music_downloader"
     },
     {
+      "dll": "foo_dr_meter",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dr_meter"
+    },
+    {
       "dll": "foo_drpc",
       "source": "github",
       "owner": "ultrasn0w",
@@ -176,10 +201,95 @@
       "url": "https://sourceforge.net/projects/sacddecoder/files/foo_dsd_processor/"
     },
     {
+      "dll": "foo_dsp_amp",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_amp"
+    },
+    {
+      "dll": "foo_dsp_art_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_art_resampler"
+    },
+    {
+      "dll": "foo_dsp_convolver",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_convolver"
+    },
+    {
+      "dll": "foo_dsp_crossmix",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_crossmix"
+    },
+    {
+      "dll": "foo_dsp_deemph",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_deemph"
+    },
+    {
+      "dll": "foo_dsp_delta",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_delta"
+    },
+    {
+      "dll": "foo_dsp_dither",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_dither"
+    },
+    {
+      "dll": "foo_dsp_downmixer",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_downmixer"
+    },
+    {
+      "dll": "foo_dsp_dtsenc",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_dtsenc"
+    },
+    {
+      "dll": "foo_dsp_fadeinout",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_fadeinout"
+    },
+    {
+      "dll": "foo_dsp_fadeout_on_command",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_fadeout_on_command"
+    },
+    {
+      "dll": "foo_dsp_fakegapless",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_fakegapless"
+    },
+    {
+      "dll": "foo_dsp_fsurround",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_fsurround"
+    },
+    {
+      "dll": "foo_dsp_hardclip",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_hardclip"
+    },
+    {
       "dll": "foo_dsp_health",
       "source": "github",
       "owner": "jame25",
       "repo": "foo_dsp_health"
+    },
+    {
+      "dll": "foo_dsp_lcc",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_lcc"
+    },
+    {
+      "dll": "foo_dsp_lowpass",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_lowpass"
+    },
+    {
+      "dll": "foo_dsp_mdadither",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_mdadither"
     },
     {
       "dll": "foo_dsp_neutralizer",
@@ -187,9 +297,64 @@
       "url": "https://sourceforge.net/projects/dvdadecoder/files/foo_dsp_neutralizer/"
     },
     {
+      "dll": "foo_dsp_nogaps",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_nogaps"
+    },
+    {
+      "dll": "foo_dsp_normalizer",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_normalizer"
+    },
+    {
       "dll": "foo_dsp_openal",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/foobar-openal/files/foo_dsp_openal/"
+    },
+    {
+      "dll": "foo_dsp_pregap",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_pregap"
+    },
+    {
+      "dll": "foo_dsp_r8brain_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_r8brain_resampler"
+    },
+    {
+      "dll": "foo_dsp_replaygain",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_replaygain"
+    },
+    {
+      "dll": "foo_dsp_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_resampler"
+    },
+    {
+      "dll": "foo_dsp_skip_silence",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_skip_silence"
+    },
+    {
+      "dll": "foo_dsp_sox_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_sox_resampler"
+    },
+    {
+      "dll": "foo_dsp_speex_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_speex_resampler"
+    },
+    {
+      "dll": "foo_dsp_src_resampler",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_src_resampler"
+    },
+    {
+      "dll": "foo_dsp_stereoconv",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_dsp_stereoconv"
     },
     {
       "dll": "foo_dsp_width",
@@ -202,6 +367,11 @@
       "source": "github",
       "owner": "M3MEMonster",
       "repo": "Duration_and_Subsong_Manager"
+    },
+    {
+      "dll": "foo_external_tags",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_external_tags"
     },
     {
       "dll": "foo_favorite",
@@ -238,6 +408,16 @@
       "source": "github",
       "owner": "jocover",
       "repo": "foo_hackrf"
+    },
+    {
+      "dll": "foo_hdcd",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_hdcd"
+    },
+    {
+      "dll": "foo_hdcd",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_hdcd"
     },
     {
       "dll": "foo_httpserver_ctrl",
@@ -278,10 +458,20 @@
       "url": "https://sourceforge.net/projects/dvdadecoder/files/foo_input_dvda/"
     },
     {
+      "dll": "foo_input_halac",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_input_halac"
+    },
+    {
       "dll": "foo_input_pmd",
       "source": "github",
       "owner": "stuerp",
       "repo": "foo_input_pmd"
+    },
+    {
+      "dll": "foo_input_qoa",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_input_qoa"
     },
     {
       "dll": "foo_input_sacd",
@@ -299,6 +489,11 @@
       "source": "github",
       "owner": "FauxFaux",
       "repo": "foo_input_spotify"
+    },
+    {
+      "dll": "foo_input_tak",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_input_tak"
     },
     {
       "dll": "foo_input_udsd",
@@ -411,6 +606,16 @@
       "url": "https://marc2k3.github.io/component/musicbrainz64/"
     },
     {
+      "dll": "foo_nds",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_nds"
+    },
+    {
+      "dll": "foo_nosleep",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_nosleep"
+    },
+    {
       "dll": "foo_nosleep_modern",
       "source": "github",
       "owner": "LuckyTil",
@@ -471,6 +676,11 @@
       "repo": "foo_opensubsonic"
     },
     {
+      "dll": "foo_opusenc",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_opusenc"
+    },
+    {
       "dll": "foo_out_asio+dsd",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/sacddecoder/files/foo_out_asio%2Bdsd/"
@@ -481,15 +691,40 @@
       "url": "https://sourceforge.net/projects/foobar2000-wasap2-output/files/"
     },
     {
+      "dll": "foo_out_digital",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_out_digital"
+    },
+    {
       "dll": "foo_out_pulse",
       "source": "github",
       "owner": "sammoth",
       "repo": "foo_out_pulse"
     },
     {
+      "dll": "foo_out_spatial",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_out_spatial"
+    },
+    {
       "dll": "foo_out_wasap2-asio2",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/foobar2000-wasap2-output/files/"
+    },
+    {
+      "dll": "foo_outinfo",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_outinfo"
+    },
+    {
+      "dll": "foo_pd_aac",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_pd_aac"
+    },
+    {
+      "dll": "foo_play_next",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_play_next"
     },
     {
       "dll": "foo_playcount_2003",
@@ -500,6 +735,16 @@
       "dll": "foo_playlist_fix",
       "source": "marc2k3",
       "url": "https://marc2k3.github.io/component/playlist-fix/"
+    },
+    {
+      "dll": "foo_playlist_info",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_playlist_info"
+    },
+    {
+      "dll": "foo_playlistclear",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_playlistclear"
     },
     {
       "dll": "foo_podcast",
@@ -554,12 +799,27 @@
       "repo": "foo_r128meter"
     },
     {
+      "dll": "foo_record",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_record"
+    },
+    {
       "dll": "foo_rehearsal",
       "source": "github",
       "owner": "ptytb",
       "repo": "foo_rehearsal"
     },
     {
+      "dll": "foo_renamer",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_renamer"
+    },
+    {
+      "dll": "foo_reset_stop_after_current",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_reset_stop_after_current"
+    },
+    {
       "dll": "foo_resume",
       "source": "github",
       "owner": "reda777",
@@ -570,6 +830,11 @@
       "source": "github",
       "owner": "reda777",
       "repo": "foo_resume"
+    },
+    {
+      "dll": "foo_retain_playtime",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_retain_playtime"
     },
     {
       "dll": "foo_run_xgrp",
@@ -602,6 +867,21 @@
       "repo": "foo_scrobbler_win"
     },
     {
+      "dll": "foo_seek_to_time",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_seek_to_time"
+    },
+    {
+      "dll": "foo_shutdown",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_shutdown"
+    },
+    {
+      "dll": "foo_skip",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_skip"
+    },
+    {
       "dll": "foo_spectrum_seekbar",
       "source": "github",
       "owner": "veselyvaclavcz",
@@ -614,6 +894,31 @@
       "repo": "foo_spider_monkey_panel"
     },
     {
+      "dll": "foo_stop_after_focused",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_stop_after_focused"
+    },
+    {
+      "dll": "foo_stop_after_queue",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_stop_after_queue"
+    },
+    {
+      "dll": "foo_stop_after_track",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_stop_after_track"
+    },
+    {
+      "dll": "foo_stop_on_current",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_stop_on_current"
+    },
+    {
+      "dll": "foo_stop_on_error",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_stop_on_error"
+    },
+    {
       "dll": "foo_strip",
       "source": "github",
       "owner": "masterrite",
@@ -624,6 +929,16 @@
       "source": "github",
       "owner": "hypfvieh",
       "repo": "foo_subsonic"
+    },
+    {
+      "dll": "foo_tag_normalizer",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_tag_normalizer"
+    },
+    {
+      "dll": "foo_taskbar_playback_progress_bar",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_taskbar_playback_progress_bar"
     },
     {
       "dll": "foo_tfsandbox",
