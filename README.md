@@ -34,7 +34,7 @@ add or edit an entry there, please update this table in the same commit
 同じコミット(またはPull Request)でこの表も更新すること。
 
 <details>
-<summary>Click to expand (192 components) / クリックで展開(192件)</summary>
+<summary>Click to expand (192 components) / クリックで展開(194件)</summary>
 
 | DLL name | Source repository |
 | --- | --- |
@@ -200,6 +200,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_skip` | [foobar.hyv.fi/?view=foo_skip (hyv)](https://foobar.hyv.fi/?view=foo_skip) |
 | `foo_spectrum_seekbar` | [veselyvaclavcz/foobar-spectrum-seekbar (github)](https://github.com/veselyvaclavcz/foobar-spectrum-seekbar) |
 | `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel (github)](https://github.com/theqwertiest/foo_spider_monkey_panel) |
+| `foo_spider_monkey_panel` | [dima-lur/spider-monkey-panel-x64 (github)](https://github.com/dima-lur/spider-monkey-panel-x64) |
 | `foo_stop_after_focused` | [foobar.hyv.fi/?view=foo_stop_after_focused (hyv)](https://foobar.hyv.fi/?view=foo_stop_after_focused) |
 | `foo_stop_after_queue` | [foobar.hyv.fi/?view=foo_stop_after_queue (hyv)](https://foobar.hyv.fi/?view=foo_stop_after_queue) |
 | `foo_stop_after_track` | [foobar.hyv.fi/?view=foo_stop_after_track (hyv)](https://foobar.hyv.fi/?view=foo_stop_after_track) |
@@ -219,6 +220,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_ui_wizard` | [The-Wizardium/UI-Wizard (github)](https://github.com/The-Wizardium/UI-Wizard) |
 | `foo_uie_albumart_mod` | [Duny/foo_uie_albumart_mod (github)](https://github.com/Duny/foo_uie_albumart_mod) |
 | `foo_uie_eslyric` | [ESLyric/release (github)](https://github.com/ESLyric/release) |
+| `foo_uie_jsplitter` | [dima-lur/jsplitter (github)](https://github.com/dima-lur/jsplitter) |
 | `foo_uie_output_switcher` | [Chocobo1/foo_uie_output_switcher (github)](https://github.com/Chocobo1/foo_uie_output_switcher) |
 | `foo_uie_playlist_tree` | [stuerp/foo_uie_playlist_tree (github)](https://github.com/stuerp/foo_uie_playlist_tree) |
 | `foo_uie_webview` | [jecassis/foo_uie_webview (github)](https://github.com/jecassis/foo_uie_webview) |

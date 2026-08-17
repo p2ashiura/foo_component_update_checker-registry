@@ -894,6 +894,12 @@
       "repo": "foo_spider_monkey_panel"
     },
     {
+      "dll": "foo_spider_monkey_panel",
+      "source": "github",
+      "owner": "dima-lur",
+      "repo": "spider-monkey-panel-x64"
+    },
+    {
       "dll": "foo_stop_after_focused",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_stop_after_focused"
@@ -999,6 +1005,12 @@
       "source": "github",
       "owner": "ESLyric",
       "repo": "release"
+    },
+    {
+      "dll": "foo_uie_jsplitter",
+      "source": "github",
+      "owner": "dima-lur",
+      "repo": "jsplitter"
     },
     {
       "dll": "foo_uie_output_switcher",
