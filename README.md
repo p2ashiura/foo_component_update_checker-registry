@@ -33,8 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-<details>
-<summary>Click to expand (194 components) / クリックで展開(194件)</summary>
+194 components / 194件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -233,8 +232,6 @@ add or edit an entry there, please update this table in the same commit
 | `foo_xspf_1` | [Chocobo1/foo_xspf_1 (github)](https://github.com/Chocobo1/foo_xspf_1) |
 | `foo_yaarchive_reader` | [mocukie/foo_yaarchive_reader (github)](https://github.com/mocukie/foo_yaarchive_reader) |
 
-</details>
-
 ### Disabled / 無効化済み
 
 **English**
@@ -303,20 +300,20 @@ Which fields an entry needs depends on its `source`:
 
 必要なフィールドは`source`によって異なる:
 
-- `"github"` / `"gitlab"` / `"codeberg"` — リポジトリ形式のサイト。
+- `"github"` / `"gitlab"` / `"codeberg"`—リポジトリ形式のサイト。
   `owner` + `repo`を使う(`url`は不要)
-- `"marc2k3"` / `"sourceforge"` / `"hyv"` — リポジトリ形式のReleases APIを
+- `"marc2k3"` / `"sourceforge"` / `"hyv"`—リポジトリ形式のReleases APIを
   持たないサイト。`owner`/`repo`の代わりに`url`を使う。`marc2k3`と`hyv`は
   そのサイト上の該当コンポーネントの個別ページを指し、`sourceforge`は
   プロジェクトのファイルフォルダを指す(どのSourceForgeプロジェクトでも使える)
 
 Entries registered by a user directly in
 [foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)
-(via Preferences → Tools → Component Update Checker → Manage Repositories...)
+(via Preferences → Tools → Component Update Checker → Manage Sources...)
 always take priority over entries here.
 
 ユーザーが[foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)側
-(Preferences → Tools → Component Update Checker → Manage Repositories...)で
+(Preferences → Tools → Component Update Checker → Manage Sources...)で
 直接登録した内容は、常にこちらより優先される。
 
 ## Contributing / 投稿について
@@ -345,7 +342,7 @@ your own judgment before visiting a release page.
 生成できる)。レビュー・マージの際は、同じコミットで上記の表も更新すること。
 
 このファイルに含まれるのは、レビュー済みのPull Requestで追加されたエントリのみ。
-自動的な収集やスクレイピングは一切行っていない — ここに載っているURLは、
+自動的な収集やスクレイピングは一切行っていない—ここに載っているURLは、
 すべて手動で提案され、マージされたものである。
 
 メンテナーはマージ前にPull Requestをレビューするが、リンク先の各リポジトリ・
