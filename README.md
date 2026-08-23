@@ -33,16 +33,19 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-220 components / 220件
+250 components / 250件
 
 | DLL name | Source repository |
 | --- | --- |
 | `foo_albumart_grid` | [veselyvaclavcz/foobar-grid-view (github)](https://github.com/veselyvaclavcz/foobar-grid-view) |
+| `foo_24sevenfm_covers` | [pke/24sevenfm_covers (github)](https://github.com/pke/24sevenfm_covers) |
+| `foo_ai` | [Bobini1/foo_ai (github)](https://github.com/Bobini1/foo_ai) |
 | `foo_albumtrain` | [p2ashiura/Album-Train (github)](https://github.com/p2ashiura/Album-Train) |
 | `foo_api_wizard` | [The-Wizardium/API-Wizard (github)](https://github.com/The-Wizardium/API-Wizard) |
 | `foo_artgrab` | [jame25/foo_artgrab (github)](https://github.com/jame25/foo_artgrab) |
 | `foo_artist_view` | [veselyvaclavcz/foo_artist_view (github)](https://github.com/veselyvaclavcz/foo_artist_view) |
 | `foo_artwork` | [jame25/foo_artwork (github)](https://github.com/jame25/foo_artwork) |
+| `foo_atelier_queuebridge` | [Wffv9FNa/foo_atelier_queuebridge (github)](https://github.com/Wffv9FNa/foo_atelier_queuebridge) |
 | `foo_audio_wizard` | [The-Wizardium/Audio-Wizard (github)](https://github.com/The-Wizardium/Audio-Wizard) |
 | `foo_audiomd5` | [foobar.hyv.fi/?view=foo_audiomd5 (hyv)](https://foobar.hyv.fi/?view=foo_audiomd5) |
 | `foo_autoplay` | [sourceforge.net/projects/fooautoplay/files/fooautoplay (sourceforge)](https://sourceforge.net/projects/fooautoplay/files/fooautoplay/) |
@@ -62,6 +65,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_controlserver` | [audiohead/foo_controlserver (github)](https://github.com/audiohead/foo_controlserver) |
 | `foo_cover_utils` | [marc2k3.github.io/component/cover-utils (marc2k3)](https://marc2k3.github.io/component/cover-utils/) |
 | `foo_coverflow` | [ghDaYuYu/foo_coverflow (github)](https://github.com/ghDaYuYu/foo_coverflow) |
+| `foo_cue_charset` | [kidoz/foo-cue-charset (github)](https://github.com/kidoz/foo-cue-charset) |
 | `foo_cuefixer` | [RevenantX/foo_cuefixer (github)](https://github.com/RevenantX/foo_cuefixer) |
 | `foo_cuesheet_creator` | [foobar.hyv.fi/?view=foo_cuesheet_creator (hyv)](https://foobar.hyv.fi/?view=foo_cuesheet_creator) |
 | `foo_deemph` | [foobar.hyv.fi/?view=foo_deemph (hyv)](https://foobar.hyv.fi/?view=foo_deemph) |
@@ -70,6 +74,8 @@ add or edit an entry there, please update this table in the same commit
 | `foo_discord_rich` | [shirafukayayoi/foo_discord_rich (github)](https://github.com/shirafukayayoi/foo_discord_rich) |
 | `foo_discord_rich` | [TheQwertiest/foo_discord_rich (github)](https://github.com/TheQwertiest/foo_discord_rich) |
 | `foo_discord_rich` | [supern64/foo_discord_rich (github)](https://github.com/supern64/foo_discord_rich) |
+| `foo_discord_rich` | [wsnrq/foo_discord_rich (github)](https://github.com/wsnrq/foo_discord_rich) |
+| `foo_discord_rich` | [s0hv/foo_discord_rich (github)](https://github.com/s0hv/foo_discord_rich) |
 | `foo_dop` | [reupen/ipod_manager (github)](https://github.com/reupen/ipod_manager) |
 | `foo_downloader` | [Duoslow/foo_music_downloader (github)](https://github.com/Duoslow/foo_music_downloader) |
 | `foo_dr_meter` | [foobar.hyv.fi/?view=foo_dr_meter (hyv)](https://foobar.hyv.fi/?view=foo_dr_meter) |
@@ -79,6 +85,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_dsd_processor` | [sourceforge.net/projects/sacddecoder/files/foo_dsd_processor (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_dsd_processor/) |
 | `foo_dsp_amp` | [foobar.hyv.fi/?view=foo_dsp_amp (hyv)](https://foobar.hyv.fi/?view=foo_dsp_amp) |
 | `foo_dsp_art_resampler` | [foobar.hyv.fi/?view=foo_dsp_art_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_art_resampler) |
+| `foo_dsp_clap` | [kartun83/foo_dsp_clap (github)](https://github.com/kartun83/foo_dsp_clap) |
 | `foo_dsp_convolver` | [foobar.hyv.fi/?view=foo_dsp_convolver (hyv)](https://foobar.hyv.fi/?view=foo_dsp_convolver) |
 | `foo_dsp_crossmix` | [foobar.hyv.fi/?view=foo_dsp_crossmix (hyv)](https://foobar.hyv.fi/?view=foo_dsp_crossmix) |
 | `foo_dsp_deemph` | [foobar.hyv.fi/?view=foo_dsp_deemph (hyv)](https://foobar.hyv.fi/?view=foo_dsp_deemph) |
@@ -105,6 +112,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_dsp_resampler` | [foobar.hyv.fi/?view=foo_dsp_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_resampler) |
 | `foo_dsp_skip_silence` | [foobar.hyv.fi/?view=foo_dsp_skip_silence (hyv)](https://foobar.hyv.fi/?view=foo_dsp_skip_silence) |
 | `foo_dsp_sox_resampler` | [foobar.hyv.fi/?view=foo_dsp_sox_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_sox_resampler) |
+| `foo_dsp_speaker_range` | [kidoz/foo-dsp-speaker-range (github)](https://github.com/kidoz/foo-dsp-speaker-range) |
 | `foo_dsp_speex_resampler` | [foobar.hyv.fi/?view=foo_dsp_speex_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_speex_resampler) |
 | `foo_dsp_src_resampler` | [foobar.hyv.fi/?view=foo_dsp_src_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_src_resampler) |
 | `foo_dsp_stereoconv` | [foobar.hyv.fi/?view=foo_dsp_stereoconv (hyv)](https://foobar.hyv.fi/?view=foo_dsp_stereoconv) |
@@ -122,6 +130,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_hdcd` | [foobar.hyv.fi/?view=foo_hdcd (hyv)](https://foobar.hyv.fi/?view=foo_hdcd) |
 | `foo_hdcd` | [foobar.hyv.fi/?view=foo_hdcd (hyv)](https://foobar.hyv.fi/?view=foo_hdcd) |
 | `foo_httpcontrol` | [oblikoamorale/foo_httpcontrol (codeberg)](https://codeberg.org/oblikoamorale/foo_httpcontrol) |
+| `foo_httpcontrol` | [regorxxx/foo_httpcontrol_fb2kc (github)](https://github.com/regorxxx/foo_httpcontrol_fb2kc) |
 | `foo_httpserver_ctrl` | [sourceforge.net/projects/foohttpserver/files/foohttpserver (sourceforge)](https://sourceforge.net/projects/foohttpserver/files/foohttpserver/) |
 | `foo_input_adplug_mac` | [nrlquaker/foo_input_adplug_mac (github)](https://github.com/nrlquaker/foo_input_adplug_mac) |
 | `foo_input_amr` | [unjello/foo_input_amr (github)](https://github.com/unjello/foo_input_amr) |
@@ -130,6 +139,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_input_dtshd` | [sourceforge.net/projects/dvdadecoder/files/foo_input_dtshd (sourceforge)](https://sourceforge.net/projects/dvdadecoder/files/foo_input_dtshd/) |
 | `foo_input_dvda` | [sourceforge.net/projects/dvdadecoder/files/foo_input_dvda (sourceforge)](https://sourceforge.net/projects/dvdadecoder/files/foo_input_dvda/) |
 | `foo_input_halac` | [foobar.hyv.fi/?view=foo_input_halac (hyv)](https://foobar.hyv.fi/?view=foo_input_halac) |
+| `foo_input_ncm` | [pnck/foo_input_ncm (github)](https://github.com/pnck/foo_input_ncm) |
 | `foo_input_pmd` | [stuerp/foo_input_pmd (github)](https://github.com/stuerp/foo_input_pmd) |
 | `foo_input_qoa` | [foobar.hyv.fi/?view=foo_input_qoa (hyv)](https://foobar.hyv.fi/?view=foo_input_qoa) |
 | `foo_input_sacd` | [sourceforge.net/projects/sacddecoder/files/foo_input_sacd (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_input_sacd/) |
@@ -137,6 +147,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_input_spotify` | [FauxFaux/foo_input_spotify (github)](https://github.com/FauxFaux/foo_input_spotify) |
 | `foo_input_tak` | [foobar.hyv.fi/?view=foo_input_tak (hyv)](https://foobar.hyv.fi/?view=foo_input_tak) |
 | `foo_input_udsd` | [sourceforge.net/projects/sacddecoder/files/macOS%20%2BWindows/foo_input_udsd (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/macOS%20%2BWindows/foo_input_udsd/) |
+| `foo_input_vgmstream` | [vgmstream/vgmstream (github)](https://github.com/vgmstream/vgmstream) |
 | `foo_input_wave_loop` | [suwasakix/foo_input_wave_loop (github)](https://github.com/suwasakix/foo_input_wave_loop) |
 | `foo_jscript_panel` | [kbuffington/foo_jscript_panel (github)](https://github.com/kbuffington/foo_jscript_panel) |
 | `foo_jscript_panel` | [leefan/foo-jscript-panel (github)](https://github.com/leefan/foo-jscript-panel) |
@@ -149,14 +160,19 @@ add or edit an entry there, please update this table in the same commit
 | `foo_lock` | [stuerp/foo_lock (github)](https://github.com/stuerp/foo_lock) |
 | `foo_loop_play_with_tags` | [litproca/foo_loop_play_with_tags (github)](https://github.com/litproca/foo_loop_play_with_tags) |
 | `foo_loop-sync` | [otoboku/foo_loop-sync (github)](https://github.com/otoboku/foo_loop-sync) |
+| `foo_lyrics_ai_translator` | [Evgeniy-51/LyricsAITranslator (github)](https://github.com/Evgeniy-51/LyricsAITranslator) |
+| `foo_m3ucue_saver` | [VadimLevo/foo_m3ucue_saver (github)](https://github.com/VadimLevo/foo_m3ucue_saver) |
 | `foo_maloja` | [ICTman1076/foo_maloja (github)](https://github.com/ICTman1076/foo_maloja) |
 | `foo_matrix_nowplaying` | [jame25/foo_matrix_nowplaying (github)](https://github.com/jame25/foo_matrix_nowplaying) |
 | `foo_mediacontrol` | [dumbie/foo_mediacontrol (github)](https://github.com/dumbie/foo_mediacontrol) |
 | `foo_mediacontrol` | [Hual/foo_mediacontrol (github)](https://github.com/Hual/foo_mediacontrol) |
+| `foo_mediacontrol` | [ungive/foo_mediacontrol (github)](https://github.com/ungive/foo_mediacontrol) |
 | `foo_midi` | [stuerp/foo_midi (github)](https://github.com/stuerp/foo_midi) |
 | `foo_mixcloud` | [zetmar-collab/foo_mixcloud (github)](https://github.com/zetmar-collab/foo_mixcloud) |
 | `foo_monthly_stats` | [shirafukayayoi/foo_monthly_stats (github)](https://github.com/shirafukayayoi/foo_monthly_stats) |
+| `foo_mpris` | [wsnrq/foobard (github)](https://github.com/wsnrq/foobard) |
 | `foo_mpv` | [sammoth/foo_mpv (github)](https://github.com/sammoth/foo_mpv) |
+| `foo_music_downloader` | [Duoslow/foo_music_downloader (github)](https://github.com/Duoslow/foo_music_downloader) |
 | `foo_musical_key` | [PEERSOFTdev/foo_musical_key (github)](https://github.com/PEERSOFTdev/foo_musical_key) |
 | `foo_musicbrainz` | [kbuffington/foo_musicbrainz (github)](https://github.com/kbuffington/foo_musicbrainz) |
 | `foo_musicbrainz64` | [marc2k3.github.io/component/musicbrainz64 (marc2k3)](https://marc2k3.github.io/component/musicbrainz64/) |
@@ -175,11 +191,13 @@ add or edit an entry there, please update this table in the same commit
 | `foo_opusenc` | [foobar.hyv.fi/?view=foo_opusenc (hyv)](https://foobar.hyv.fi/?view=foo_opusenc) |
 | `foo_out_asio+dsd` | [sourceforge.net/projects/sacddecoder/files/foo_out_asio%2Bdsd (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_out_asio%2Bdsd/) |
 | `foo_out_asio2` | [sourceforge.net/projects/foobar2000-wasap2-output/files (sourceforge)](https://sourceforge.net/projects/foobar2000-wasap2-output/files/) |
+| `foo_out_avfoundation` | [pnck/foo_out_avfoundation (github)](https://github.com/pnck/foo_out_avfoundation) |
 | `foo_out_digital` | [foobar.hyv.fi/?view=foo_out_digital (hyv)](https://foobar.hyv.fi/?view=foo_out_digital) |
 | `foo_out_pulse` | [sammoth/foo_out_pulse (github)](https://github.com/sammoth/foo_out_pulse) |
 | `foo_out_scream` | [sammoth/foo_out_scream (github)](https://github.com/sammoth/foo_out_scream) |
 | `foo_out_spatial` | [foobar.hyv.fi/?view=foo_out_spatial (hyv)](https://foobar.hyv.fi/?view=foo_out_spatial) |
 | `foo_out_wasap2-asio2` | [sourceforge.net/projects/foobar2000-wasap2-output/files (sourceforge)](https://sourceforge.net/projects/foobar2000-wasap2-output/files/) |
+| `foo_out_wasapi_x64` | [unknowbug/foo_out_wasapi_x64 (github)](https://github.com/unknowbug/foo_out_wasapi_x64) |
 | `foo_outinfo` | [foobar.hyv.fi/?view=foo_outinfo (hyv)](https://foobar.hyv.fi/?view=foo_outinfo) |
 | `foo_pd_aac` | [foobar.hyv.fi/?view=foo_pd_aac (hyv)](https://foobar.hyv.fi/?view=foo_pd_aac) |
 | `foo_play_next` | [foobar.hyv.fi/?view=foo_play_next (hyv)](https://foobar.hyv.fi/?view=foo_play_next) |
@@ -193,10 +211,12 @@ add or edit an entry there, please update this table in the same commit
 | `foo_previewer` | [stuerp/foo_previewer (github)](https://github.com/stuerp/foo_previewer) |
 | `foo_previous` | [terachot/Playback_History_-foo_previous- (github)](https://github.com/terachot/Playback_History_-foo_previous-) |
 | `foo_qat` | [michaldziwisz/qat-foobar (github)](https://github.com/michaldziwisz/qat-foobar) |
+| `foo_qobuz` | [icedream/fb2k-qobuz (github)](https://github.com/icedream/fb2k-qobuz) |
 | `foo_queue_editor` | [ghDaYuYu/foo_queue_editor (github)](https://github.com/ghDaYuYu/foo_queue_editor) |
 | `foo_queue_viewer` | [marc2k3.github.io/component/queue-viewer (marc2k3)](https://marc2k3.github.io/component/queue-viewer/) |
 | `foo_queuecontents` | [ssalonen/foo_queuecontents (github)](https://github.com/ssalonen/foo_queuecontents) |
 | `foo_quicksearch` | [stuerp/foo_quicksearch (github)](https://github.com/stuerp/foo_quicksearch) |
+| `foo_r128_normalizer` | [Maximum0303/foo_r128_normalizer (github)](https://github.com/Maximum0303/foo_r128_normalizer) |
 | `foo_r128meter` | [stengerh/foo_r128meter (github)](https://github.com/stengerh/foo_r128meter) |
 | `foo_record` | [foobar.hyv.fi/?view=foo_record (hyv)](https://foobar.hyv.fi/?view=foo_record) |
 | `foo_rehearsal` | [ptytb/foo_rehearsal (github)](https://github.com/ptytb/foo_rehearsal) |
@@ -204,16 +224,21 @@ add or edit an entry there, please update this table in the same commit
 | `foo_reset_stop_after_current` | [foobar.hyv.fi/?view=foo_reset_stop_after_current (hyv)](https://foobar.hyv.fi/?view=foo_reset_stop_after_current) |
 | `foo_resume` | [reda777/foo_resume (github)](https://github.com/reda777/foo_resume) |
 | `foo_retain_playtime` | [foobar.hyv.fi/?view=foo_retain_playtime (hyv)](https://foobar.hyv.fi/?view=foo_retain_playtime) |
+| `foo_rip_offset` | [VadimLevo/foo_rip_offset (github)](https://github.com/VadimLevo/foo_rip_offset) |
 | `foo_run_xgrp` | [ghDaYuYu/foo_run_xgrp (github)](https://github.com/ghDaYuYu/foo_run_xgrp) |
 | `foo_sc68` | [M3MEMonster/foo_sc68 (github)](https://github.com/M3MEMonster/foo_sc68) |
 | `foo_scheduler_mod` | [ghDaYuYu/foo_scheduler_mod (github)](https://github.com/ghDaYuYu/foo_scheduler_mod) |
 | `foo_scrobble` | [gix/foo_scrobble (github)](https://github.com/gix/foo_scrobble) |
 | `foo_scrobbler_mac` | [zfoxer/foo_scrobbler_mac (github)](https://github.com/zfoxer/foo_scrobbler_mac) |
 | `foo_scrobbler_win` | [zfoxer/foo_scrobbler_win (github)](https://github.com/zfoxer/foo_scrobbler_win) |
+| `foo_scrobbler_yin` | [zfoxer/foo_scrobbler_yin (github)](https://github.com/zfoxer/foo_scrobbler_yin) |
 | `foo_seek_to_time` | [foobar.hyv.fi/?view=foo_seek_to_time (hyv)](https://foobar.hyv.fi/?view=foo_seek_to_time) |
 | `foo_shutdown` | [foobar.hyv.fi/?view=foo_shutdown (hyv)](https://foobar.hyv.fi/?view=foo_shutdown) |
 | `foo_sid` | [stuerp/foo_sid (github)](https://github.com/stuerp/foo_sid) |
 | `foo_skip` | [foobar.hyv.fi/?view=foo_skip (hyv)](https://foobar.hyv.fi/?view=foo_skip) |
+| `foo_skipcount` | [Fjara-h/foo_skipcount (github)](https://github.com/Fjara-h/foo_skipcount) |
+| `foo_sonic_refiner` | [Maximum0303/foo_sonic_refiner (github)](https://github.com/Maximum0303/foo_sonic_refiner) |
+| `foo_soundcloud` | [zetmar-collab/foo_soundcloud (github)](https://github.com/zetmar-collab/foo_soundcloud) |
 | `foo_spectrum_seekbar` | [veselyvaclavcz/foobar-spectrum-seekbar (github)](https://github.com/veselyvaclavcz/foobar-spectrum-seekbar) |
 | `foo_spider_monkey_panel` | [dima-lur/spider-monkey-panel-x64 (github)](https://github.com/dima-lur/spider-monkey-panel-x64) |
 | `foo_spider_monkey_panel` | [theqwertiest/foo_spider_monkey_panel (github)](https://github.com/theqwertiest/foo_spider_monkey_panel) |
@@ -234,7 +259,9 @@ add or edit an entry there, please update this table in the same commit
 | `foo_timesleep` | [shirafukayayoi/foo_timesleep (github)](https://github.com/shirafukayayoi/foo_timesleep) |
 | `foo_title` | [TheQwertiest/dotnet_title_bar (github)](https://github.com/TheQwertiest/dotnet_title_bar) |
 | `foo_traycontrols` | [jame25/foo_traycontrols (github)](https://github.com/jame25/foo_traycontrols) |
+| `foo_tun_midi` | [kartun83/foo_tun_midi (github)](https://github.com/kartun83/foo_tun_midi) |
 | `foo_ui_columns` | [reupen/columns_ui (github)](https://github.com/reupen/columns_ui) |
+| `foo_ui_localization` | [shooterspps/foo_ui_localization (github)](https://github.com/shooterspps/foo_ui_localization) |
 | `foo_ui_webview2` | [NereaFantasia/foo_ui_webview2 (github)](https://github.com/NereaFantasia/foo_ui_webview2) |
 | `foo_ui_wizard` | [The-Wizardium/UI-Wizard (github)](https://github.com/The-Wizardium/UI-Wizard) |
 | `foo_uie_albumart_mod` | [Duny/foo_uie_albumart_mod (github)](https://github.com/Duny/foo_uie_albumart_mod) |
@@ -252,11 +279,14 @@ add or edit an entry there, please update this table in the same commit
 | `foo_vbookmark` | [ghDaYuYu/foo_vbookmark (github)](https://github.com/ghDaYuYu/foo_vbookmark) |
 | `foo_vis_midi` | [stuerp/foo_vis_midi (github)](https://github.com/stuerp/foo_vis_midi) |
 | `foo_vis_milk2` | [jecassis/foo_vis_milk2 (github)](https://github.com/jecassis/foo_vis_milk2) |
+| `foo_vis_milk2` | [Ci303/foo_vis_milk2_dx11-milkdrop2-fixes (github)](https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes) |
 | `foo_vis_oscilloscope_d2d` | [stengerh/foo_vis_oscilloscope_d2d (github)](https://github.com/stengerh/foo_vis_oscilloscope_d2d) |
 | `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer (github)](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 | `foo_whatsnew` | [stengerh/foo_whatsnew (github)](https://github.com/stengerh/foo_whatsnew) |
 | `foo_xspf_1` | [Chocobo1/foo_xspf_1 (github)](https://github.com/Chocobo1/foo_xspf_1) |
 | `foo_yaarchive_reader` | [mocukie/foo_yaarchive_reader (github)](https://github.com/mocukie/foo_yaarchive_reader) |
+| `foo_youtube_helper` | [NisemonoLiao/foo_youtube_helper (github)](https://github.com/NisemonoLiao/foo_youtube_helper) |
+| `foo_youtube_player` | [zetmar-collab/foo_youtube_player (github)](https://github.com/zetmar-collab/foo_youtube_player) |
 
 ### Disabled / 無効化済み
 

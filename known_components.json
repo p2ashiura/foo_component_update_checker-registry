@@ -8,6 +8,18 @@
       "repo": "foobar-grid-view"
     },
     {
+      "dll": "foo_24sevenfm_covers",
+      "source": "github",
+      "owner": "pke",
+      "repo": "24sevenfm_covers"
+    },
+    {
+      "dll": "foo_ai",
+      "source": "github",
+      "owner": "Bobini1",
+      "repo": "foo_ai"
+    },
+    {
       "dll": "foo_albumtrain",
       "source": "github",
       "owner": "p2ashiura",
@@ -36,6 +48,12 @@
       "source": "github",
       "owner": "jame25",
       "repo": "foo_artwork"
+    },
+    {
+      "dll": "foo_atelier_queuebridge",
+      "source": "github",
+      "owner": "Wffv9FNa",
+      "repo": "foo_atelier_queuebridge"
     },
     {
       "dll": "foo_audio_wizard",
@@ -147,6 +165,12 @@
       "repo": "foo_coverflow"
     },
     {
+      "dll": "foo_cue_charset",
+      "source": "github",
+      "owner": "kidoz",
+      "repo": "foo-cue-charset"
+    },
+    {
       "dll": "foo_cuefixer",
       "source": "github",
       "owner": "RevenantX",
@@ -190,6 +214,18 @@
       "dll": "foo_discord_rich",
       "source": "github",
       "owner": "supern64",
+      "repo": "foo_discord_rich"
+    },
+    {
+      "dll": "foo_discord_rich",
+      "source": "github",
+      "owner": "wsnrq",
+      "repo": "foo_discord_rich"
+    },
+    {
+      "dll": "foo_discord_rich",
+      "source": "github",
+      "owner": "s0hv",
       "repo": "foo_discord_rich"
     },
     {
@@ -239,6 +275,12 @@
       "dll": "foo_dsp_art_resampler",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_dsp_art_resampler"
+    },
+    {
+      "dll": "foo_dsp_clap",
+      "source": "github",
+      "owner": "kartun83",
+      "repo": "foo_dsp_clap"
     },
     {
       "dll": "foo_dsp_convolver",
@@ -372,6 +414,12 @@
       "url": "https://foobar.hyv.fi/?view=foo_dsp_sox_resampler"
     },
     {
+      "dll": "foo_dsp_speaker_range",
+      "source": "github",
+      "owner": "kidoz",
+      "repo": "foo-dsp-speaker-range"
+    },
+    {
       "dll": "foo_dsp_speex_resampler",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_dsp_speex_resampler"
@@ -468,6 +516,12 @@
       "repo": "foo_httpcontrol"
     },
     {
+      "dll": "foo_httpcontrol",
+      "source": "github",
+      "owner": "regorxxx",
+      "repo": "foo_httpcontrol_fb2kc"
+    },
+    {
       "dll": "foo_httpserver_ctrl",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/foohttpserver/files/foohttpserver/"
@@ -511,6 +565,12 @@
       "url": "https://foobar.hyv.fi/?view=foo_input_halac"
     },
     {
+      "dll": "foo_input_ncm",
+      "source": "github",
+      "owner": "pnck",
+      "repo": "foo_input_ncm"
+    },
+    {
       "dll": "foo_input_pmd",
       "source": "github",
       "owner": "stuerp",
@@ -547,6 +607,12 @@
       "dll": "foo_input_udsd",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/sacddecoder/files/macOS%20%2BWindows/foo_input_udsd/"
+    },
+    {
+      "dll": "foo_input_vgmstream",
+      "source": "github",
+      "owner": "vgmstream",
+      "repo": "vgmstream"
     },
     {
       "dll": "foo_input_wave_loop",
@@ -619,6 +685,18 @@
       "repo": "foo_loop-sync"
     },
     {
+      "dll": "foo_lyrics_ai_translator",
+      "source": "github",
+      "owner": "Evgeniy-51",
+      "repo": "LyricsAITranslator"
+    },
+    {
+      "dll": "foo_m3ucue_saver",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_m3ucue_saver"
+    },
+    {
       "dll": "foo_maloja",
       "source": "github",
       "owner": "ICTman1076",
@@ -643,6 +721,12 @@
       "repo": "foo_mediacontrol"
     },
     {
+      "dll": "foo_mediacontrol",
+      "source": "github",
+      "owner": "ungive",
+      "repo": "foo_mediacontrol"
+    },
+    {
       "dll": "foo_midi",
       "source": "github",
       "owner": "stuerp",
@@ -661,10 +745,22 @@
       "repo": "foo_monthly_stats"
     },
     {
+      "dll": "foo_mpris",
+      "source": "github",
+      "owner": "wsnrq",
+      "repo": "foobard"
+    },
+    {
       "dll": "foo_mpv",
       "source": "github",
       "owner": "sammoth",
       "repo": "foo_mpv"
+    },
+    {
+      "dll": "foo_music_downloader",
+      "source": "github",
+      "owner": "Duoslow",
+      "repo": "foo_music_downloader"
     },
     {
       "dll": "foo_musical_key",
@@ -769,6 +865,12 @@
       "url": "https://sourceforge.net/projects/foobar2000-wasap2-output/files/"
     },
     {
+      "dll": "foo_out_avfoundation",
+      "source": "github",
+      "owner": "pnck",
+      "repo": "foo_out_avfoundation"
+    },
+    {
       "dll": "foo_out_digital",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_out_digital"
@@ -794,6 +896,12 @@
       "dll": "foo_out_wasap2-asio2",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/foobar2000-wasap2-output/files/"
+    },
+    {
+      "dll": "foo_out_wasapi_x64",
+      "source": "github",
+      "owner": "unknowbug",
+      "repo": "foo_out_wasapi_x64"
     },
     {
       "dll": "foo_outinfo",
@@ -866,6 +974,12 @@
       "repo": "qat-foobar"
     },
     {
+      "dll": "foo_qobuz",
+      "source": "github",
+      "owner": "icedream",
+      "repo": "fb2k-qobuz"
+    },
+    {
       "dll": "foo_queue_editor",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -887,6 +1001,12 @@
       "source": "github",
       "owner": "stuerp",
       "repo": "foo_quicksearch"
+    },
+    {
+      "dll": "foo_r128_normalizer",
+      "source": "github",
+      "owner": "Maximum0303",
+      "repo": "foo_r128_normalizer"
     },
     {
       "dll": "foo_r128meter",
@@ -927,6 +1047,12 @@
       "url": "https://foobar.hyv.fi/?view=foo_retain_playtime"
     },
     {
+      "dll": "foo_rip_offset",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_rip_offset"
+    },
+    {
       "dll": "foo_run_xgrp",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -963,6 +1089,12 @@
       "repo": "foo_scrobbler_win"
     },
     {
+      "dll": "foo_scrobbler_yin",
+      "source": "github",
+      "owner": "zfoxer",
+      "repo": "foo_scrobbler_yin"
+    },
+    {
       "dll": "foo_seek_to_time",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_seek_to_time"
@@ -982,6 +1114,24 @@
       "dll": "foo_skip",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_skip"
+    },
+    {
+      "dll": "foo_skipcount",
+      "source": "github",
+      "owner": "Fjara-h",
+      "repo": "foo_skipcount"
+    },
+    {
+      "dll": "foo_sonic_refiner",
+      "source": "github",
+      "owner": "Maximum0303",
+      "repo": "foo_sonic_refiner"
+    },
+    {
+      "dll": "foo_soundcloud",
+      "source": "github",
+      "owner": "zetmar-collab",
+      "repo": "foo_soundcloud"
     },
     {
       "dll": "foo_spectrum_seekbar",
@@ -1097,10 +1247,22 @@
       "repo": "foo_traycontrols"
     },
     {
+      "dll": "foo_tun_midi",
+      "source": "github",
+      "owner": "kartun83",
+      "repo": "foo_tun_midi"
+    },
+    {
       "dll": "foo_ui_columns",
       "source": "github",
       "owner": "reupen",
       "repo": "columns_ui"
+    },
+    {
+      "dll": "foo_ui_localization",
+      "source": "github",
+      "owner": "shooterspps",
+      "repo": "foo_ui_localization"
     },
     {
       "dll": "foo_ui_webview2",
@@ -1205,6 +1367,12 @@
       "repo": "foo_vis_milk2"
     },
     {
+      "dll": "foo_vis_milk2",
+      "source": "github",
+      "owner": "Ci303",
+      "repo": "foo_vis_milk2_dx11-milkdrop2-fixes"
+    },
+    {
       "dll": "foo_vis_oscilloscope_d2d",
       "source": "github",
       "owner": "stengerh",
@@ -1233,6 +1401,18 @@
       "source": "github",
       "owner": "mocukie",
       "repo": "foo_yaarchive_reader"
+    },
+    {
+      "dll": "foo_youtube_helper",
+      "source": "github",
+      "owner": "NisemonoLiao",
+      "repo": "foo_youtube_helper"
+    },
+    {
+      "dll": "foo_youtube_player",
+      "source": "github",
+      "owner": "zetmar-collab",
+      "repo": "foo_youtube_player"
     }
   ],
   "disabled": [
