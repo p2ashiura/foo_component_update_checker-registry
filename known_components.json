@@ -103,14 +103,14 @@
     },
     {
       "dll": "foo_bpm",
-      "source": "hyv",
-      "url": "https://foobar.hyv.fi/?view=foo_bpm"
-    },
-    {
-      "dll": "foo_bpm",
       "source": "github",
       "owner": "stengerh",
       "repo": "foo_bpm"
+    },
+    {
+      "dll": "foo_bpm",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_bpm"
     },
     {
       "dll": "foo_bs2b",
@@ -213,13 +213,13 @@
     {
       "dll": "foo_discord_rich",
       "source": "github",
-      "owner": "shirafukayayoi",
+      "owner": "TheQwertiest",
       "repo": "foo_discord_rich"
     },
     {
       "dll": "foo_discord_rich",
       "source": "github",
-      "owner": "TheQwertiest",
+      "owner": "shirafukayayoi",
       "repo": "foo_discord_rich"
     },
     {
@@ -522,11 +522,6 @@
       "source": "github",
       "owner": "jocover",
       "repo": "foo_hackrf"
-    },
-    {
-      "dll": "foo_hdcd",
-      "source": "hyv",
-      "url": "https://foobar.hyv.fi/?view=foo_hdcd"
     },
     {
       "dll": "foo_hdcd",
@@ -1337,6 +1332,12 @@
       "repo": "foo_tfsandbox"
     },
     {
+      "dll": "foo_tfsandbox_mod",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_tfsandbox_mod"
+    },
+    {
       "dll": "foo_thbgm",
       "source": "github",
       "owner": "nyfair",
@@ -1359,6 +1360,12 @@
       "source": "github",
       "owner": "TheQwertiest",
       "repo": "dotnet_title_bar"
+    },
+    {
+      "dll": "foo_trackpos_mod",
+      "source": "github",
+      "owner": "ghDaYuYu",
+      "repo": "foo_trackpos_mod"
     },
     {
       "dll": "foo_traycontrols",

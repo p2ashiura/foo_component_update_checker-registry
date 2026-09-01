@@ -33,7 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-270 components / 270件
+271 components / 271件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -54,8 +54,8 @@ add or edit an entry there, please update this table in the same commit
 | `foo_beefweb` | [hyperblast/beefweb (github)](https://github.com/hyperblast/beefweb) |
 | `foo_bestversion` | [hymerman/foo_bestversion (github)](https://github.com/hymerman/foo_bestversion) |
 | `foo_bookbar` | [michaldziwisz/bookbar (github)](https://github.com/michaldziwisz/bookbar) |
-| `foo_bpm` | [foobar.hyv.fi/?view=foo_bpm (hyv)](https://foobar.hyv.fi/?view=foo_bpm) |
 | `foo_bpm` | [stengerh/foo_bpm (github)](https://github.com/stengerh/foo_bpm) |
+| `foo_bpm` | [foobar.hyv.fi/?view=foo_bpm (hyv)](https://foobar.hyv.fi/?view=foo_bpm) |
 | `foo_bs2b` | [sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin (sourceforge)](https://sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin/) |
 | `foo_cad_nowplaying` | [ghDaYuYu/foo_cad_nowplaying (github)](https://github.com/ghDaYuYu/foo_cad_nowplaying) |
 | `foo_cad_plus` | [RangerCD/foo-cad-plus (github)](https://github.com/RangerCD/foo-cad-plus) |
@@ -73,8 +73,8 @@ add or edit an entry there, please update this table in the same commit
 | `foo_devconsole` | [stengerh/foo_devconsole (github)](https://github.com/stengerh/foo_devconsole) |
 | `foo_discogger` | [ghDaYuYu/foo_discogger (github)](https://github.com/ghDaYuYu/foo_discogger) |
 | `foo_discord_presence` | [winkyfaceak/foobar2000-discord-presence (github)](https://github.com/winkyfaceak/foobar2000-discord-presence) |
-| `foo_discord_rich` | [shirafukayayoi/foo_discord_rich (github)](https://github.com/shirafukayayoi/foo_discord_rich) |
 | `foo_discord_rich` | [TheQwertiest/foo_discord_rich (github)](https://github.com/TheQwertiest/foo_discord_rich) |
+| `foo_discord_rich` | [shirafukayayoi/foo_discord_rich (github)](https://github.com/shirafukayayoi/foo_discord_rich) |
 | `foo_discord_rich` | [supern64/foo_discord_rich (github)](https://github.com/supern64/foo_discord_rich) |
 | `foo_discord_rich` | [wsnrq/foo_discord_rich (github)](https://github.com/wsnrq/foo_discord_rich) |
 | `foo_discord_rich` | [s0hv/foo_discord_rich (github)](https://github.com/s0hv/foo_discord_rich) |
@@ -131,7 +131,6 @@ add or edit an entry there, please update this table in the same commit
 | `foo_gamesenseoled` | [weespin/foo_gamesenseoled (github)](https://github.com/weespin/foo_gamesenseoled) |
 | `foo_gdrive_stream` | [shirafukayayoi/foo_gdrive_stream (github)](https://github.com/shirafukayayoi/foo_gdrive_stream) |
 | `foo_hackrf` | [jocover/foo_hackrf (github)](https://github.com/jocover/foo_hackrf) |
-| `foo_hdcd` | [foobar.hyv.fi/?view=foo_hdcd (hyv)](https://foobar.hyv.fi/?view=foo_hdcd) |
 | `foo_hdcd` | [foobar.hyv.fi/?view=foo_hdcd (hyv)](https://foobar.hyv.fi/?view=foo_hdcd) |
 | `foo_httpcontrol` | [oblikoamorale/foo_httpcontrol (codeberg)](https://codeberg.org/oblikoamorale/foo_httpcontrol) |
 | `foo_httpcontrol` | [regorxxx/foo_httpcontrol_fb2kc (github)](https://github.com/regorxxx/foo_httpcontrol_fb2kc) |
@@ -274,10 +273,12 @@ add or edit an entry there, please update this table in the same commit
 | `foo_tag_normalizer` | [foobar.hyv.fi/?view=foo_tag_normalizer (hyv)](https://foobar.hyv.fi/?view=foo_tag_normalizer) |
 | `foo_taskbar_playback_progress_bar` | [foobar.hyv.fi/?view=foo_taskbar_playback_progress_bar (hyv)](https://foobar.hyv.fi/?view=foo_taskbar_playback_progress_bar) |
 | `foo_tfsandbox` | [stengerh/foo_tfsandbox (github)](https://github.com/stengerh/foo_tfsandbox) |
+| `foo_tfsandbox_mod` | [ghDaYuYu/foo_tfsandbox_mod (github)](https://github.com/ghDaYuYu/foo_tfsandbox_mod) |
 | `foo_thbgm` | [nyfair/foo_thbgm (github)](https://github.com/nyfair/foo_thbgm) |
 | `foo_timebomb2` | [grimes2/foo_timebomb2 (github)](https://github.com/grimes2/foo_timebomb2) |
 | `foo_timesleep` | [shirafukayayoi/foo_timesleep (github)](https://github.com/shirafukayayoi/foo_timesleep) |
 | `foo_title` | [TheQwertiest/dotnet_title_bar (github)](https://github.com/TheQwertiest/dotnet_title_bar) |
+| `foo_trackpos_mod` | [ghDaYuYu/foo_trackpos_mod (github)](https://github.com/ghDaYuYu/foo_trackpos_mod) |
 | `foo_traycontrols` | [jame25/foo_traycontrols (github)](https://github.com/jame25/foo_traycontrols) |
 | `foo_tun_midi` | [kartun83/foo_tun_midi (github)](https://github.com/kartun83/foo_tun_midi) |
 | `foo_ui_columns` | [reupen/columns_ui (github)](https://github.com/reupen/columns_ui) |
@@ -388,9 +389,26 @@ Entries registered by a user directly in
 (via Preferences → Tools → Component Update Checker → Manage Sources...)
 always take priority over entries here.
 
+Multiple entries can share the same `dll` value — for example, several
+forks that happen to build under the same DLL name. This table is meant to
+work as a catalog of what exists, so that's allowed. In practice, only the
+first matching entry (in file order) is checked automatically; the
+component has no reliable way to tell which fork a user actually has
+installed. If you specifically rely on one particular fork, register it
+directly via **Manage Sources...** in the component instead — local
+registrations always win over this shared list.
+
 ユーザーが[foo_component_update_checker](https://github.com/p2ashiura/foo_component_update_checker)側
 (Preferences → Tools → Component Update Checker → Manage Sources...)で
 直接登録した内容は、常にこちらより優先される。
+
+同一の`dll`値を持つエントリが複数存在してもよい(例: 同じDLL名で出力される
+複数のfork)。この表はネット上に存在するコンポーネントのカタログ的な性質を
+持っているため、これは許容している。ただし実際にチェックされるのは
+(ファイル内での記載順で)先に一致した1件のみで、ユーザーがどちらのforkを
+導入しているかをコンポーネント側から判別する確実な手段は無い。特定のforkを
+確実にチェックしたい場合は、コンポーネントの**Manage Sources...**から
+直接登録すること—ローカル登録は常にこの共有リストより優先される。
 
 ## Contributing / 投稿について
 
