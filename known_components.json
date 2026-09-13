@@ -113,6 +113,12 @@
       "url": "https://foobar.hyv.fi/?view=foo_bpm"
     },
     {
+      "dll": "foo_bpmkey",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_bpmkey"
+    },
+    {
       "dll": "foo_bs2b",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin/"
@@ -762,6 +768,12 @@
       "source": "github",
       "owner": "ungive",
       "repo": "foo_mediacontrol"
+    },
+    {
+      "dll": "foo_metrono",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_metrono"
     },
     {
       "dll": "foo_metronome",
@@ -1454,12 +1466,6 @@
     {
       "dll": "foo_uie_webview",
       "source": "github",
-      "owner": "jecassis",
-      "repo": "foo_uie_webview"
-    },
-    {
-      "dll": "foo_uie_webview",
-      "source": "github",
       "owner": "stuerp",
       "repo": "foo_uie_webview"
     },
@@ -1549,6 +1555,13 @@
       "owner": "jscript-panel",
       "repo": "release",
       "reason": "Releases page no longer exists as of 2026-08; development appears abandoned"
+    },
+    {
+      "dll": "foo_uie_webview",
+      "source": "github",
+      "owner": "jecassis",
+      "repo": "foo_uie_webview",
+      "reason": ""
     }
   ]
 }

@@ -33,7 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-271 components / 271件
+272 components / 272件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -56,6 +56,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_bookbar` | [michaldziwisz/bookbar (github)](https://github.com/michaldziwisz/bookbar) |
 | `foo_bpm` | [stengerh/foo_bpm (github)](https://github.com/stengerh/foo_bpm) |
 | `foo_bpm` | [foobar.hyv.fi/?view=foo_bpm (hyv)](https://foobar.hyv.fi/?view=foo_bpm) |
+| `foo_bpmkey` | [VadimLevo/foo_bpmkey (github)](https://github.com/VadimLevo/foo_bpmkey) |
 | `foo_bs2b` | [sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin (sourceforge)](https://sourceforge.net/projects/bs2b/files/plugins/Foobar2000%20plugin/) |
 | `foo_cad_nowplaying` | [ghDaYuYu/foo_cad_nowplaying (github)](https://github.com/ghDaYuYu/foo_cad_nowplaying) |
 | `foo_cad_plus` | [RangerCD/foo-cad-plus (github)](https://github.com/RangerCD/foo-cad-plus) |
@@ -173,6 +174,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_mediacontrol` | [dumbie/foo_mediacontrol (github)](https://github.com/dumbie/foo_mediacontrol) |
 | `foo_mediacontrol` | [Hual/foo_mediacontrol (github)](https://github.com/Hual/foo_mediacontrol) |
 | `foo_mediacontrol` | [ungive/foo_mediacontrol (github)](https://github.com/ungive/foo_mediacontrol) |
+| `foo_metrono` | [VadimLevo/foo_metrono (github)](https://github.com/VadimLevo/foo_metrono) |
 | `foo_metronome` | [grimes2/foo_metronome (github)](https://github.com/grimes2/foo_metronome) |
 | `foo_midi` | [stuerp/foo_midi (github)](https://github.com/stuerp/foo_midi) |
 | `foo_mixcloud` | [zetmar-collab/foo_mixcloud (github)](https://github.com/zetmar-collab/foo_mixcloud) |
@@ -293,7 +295,6 @@ add or edit an entry there, please update this table in the same commit
 | `foo_uie_output_switcher` | [Chocobo1/foo_uie_output_switcher (github)](https://github.com/Chocobo1/foo_uie_output_switcher) |
 | `foo_uie_playlist_tree` | [stuerp/foo_uie_playlist_tree (github)](https://github.com/stuerp/foo_uie_playlist_tree) |
 | `foo_uie_typefind` | [reupen/typefind_panel (github)](https://github.com/reupen/typefind_panel) |
-| `foo_uie_webview` | [jecassis/foo_uie_webview (github)](https://github.com/jecassis/foo_uie_webview) |
 | `foo_uie_webview` | [stuerp/foo_uie_webview (github)](https://github.com/stuerp/foo_uie_webview) |
 | `foo_uie_wsh_panel_mod` | [samithaj/foo_uie_wsh_panel_mod (github)](https://github.com/samithaj/foo_uie_wsh_panel_mod) |
 | `foo_uie_wsh_panel_mod_plus` | [ttsping/foo_uie_wsh_panel_mod_plus (github)](https://github.com/ttsping/foo_uie_wsh_panel_mod_plus) |
@@ -320,6 +321,7 @@ here for reference only.
 | DLL name | Former repository | Reason |
 | --- | --- | --- |
 | `foo_jscript_panel3` | jscript-panel/release (github) | Releases page no longer exists as of 2026-08; development appears abandoned |
+| `foo_uie_webview` | jecassis/foo_uie_webview (github) |  |
 
 **日本語**
 
