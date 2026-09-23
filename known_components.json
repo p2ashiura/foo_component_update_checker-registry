@@ -26,6 +26,12 @@
       "repo": "Album-Train"
     },
     {
+      "dll": "foo_alphabar",
+      "source": "github",
+      "owner": "MBach",
+      "repo": "foo_alphabar"
+    },
+    {
       "dll": "foo_api_wizard",
       "source": "github",
       "owner": "The-Wizardium",
@@ -76,6 +82,12 @@
       "dll": "foo_autoplay",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/fooautoplay/files/fooautoplay/"
+    },
+    {
+      "dll": "foo_azuracast_now_playing",
+      "source": "github",
+      "owner": "smoralis",
+      "repo": "foo_azuracast_now_playing"
     },
     {
       "dll": "foo_bbookmark",
@@ -291,6 +303,12 @@
       "url": "https://sourceforge.net/projects/sacddecoder/files/foo_dsd_processor/"
     },
     {
+      "dll": "foo_dsp_alauda",
+      "source": "github",
+      "owner": "moenium-AI",
+      "repo": "Alauda"
+    },
+    {
       "dll": "foo_dsp_amp",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_dsp_amp"
@@ -457,6 +475,12 @@
       "dll": "foo_dsp_stereoconv",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_dsp_stereoconv"
+    },
+    {
+      "dll": "foo_dsp_tube_simulator",
+      "source": "github",
+      "owner": "moenium-AI",
+      "repo": "tube-simulator"
     },
     {
       "dll": "foo_dsp_width",

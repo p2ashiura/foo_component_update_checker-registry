@@ -33,7 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-272 components / 272件
+276 components / 276件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -41,6 +41,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_ai` | [Bobini1/foo_ai (github)](https://github.com/Bobini1/foo_ai) |
 | `foo_albumart_grid` | [veselyvaclavcz/foobar-grid-view (github)](https://github.com/veselyvaclavcz/foobar-grid-view) |
 | `foo_albumtrain` | [p2ashiura/Album-Train (github)](https://github.com/p2ashiura/Album-Train) |
+| `foo_alphabar` | [MBach/foo_alphabar (github)](https://github.com/MBach/foo_alphabar) |
 | `foo_api_wizard` | [The-Wizardium/API-Wizard (github)](https://github.com/The-Wizardium/API-Wizard) |
 | `foo_artgrab` | [jame25/foo_artgrab (github)](https://github.com/jame25/foo_artgrab) |
 | `foo_artist_view` | [veselyvaclavcz/foo_artist_view (github)](https://github.com/veselyvaclavcz/foo_artist_view) |
@@ -50,6 +51,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_audiomd5` | [foobar.hyv.fi/?view=foo_audiomd5 (hyv)](https://foobar.hyv.fi/?view=foo_audiomd5) |
 | `foo_autoenqueue` | [pienkowb/foo_autoenqueue (github)](https://github.com/pienkowb/foo_autoenqueue) |
 | `foo_autoplay` | [sourceforge.net/projects/fooautoplay/files/fooautoplay (sourceforge)](https://sourceforge.net/projects/fooautoplay/files/fooautoplay/) |
+| `foo_azuracast_now_playing` | [smoralis/foo_azuracast_now_playing (github)](https://github.com/smoralis/foo_azuracast_now_playing) |
 | `foo_bbookmark` | [Paremo/foo_bbookmark (github)](https://github.com/Paremo/foo_bbookmark) |
 | `foo_beefweb` | [hyperblast/beefweb (github)](https://github.com/hyperblast/beefweb) |
 | `foo_bestversion` | [hymerman/foo_bestversion (github)](https://github.com/hymerman/foo_bestversion) |
@@ -87,6 +89,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_dsd_asio` | [sourceforge.net/projects/sacddecoder/files/foo_dsd_asio (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_dsd_asio/) |
 | `foo_dsd_converter` | [sourceforge.net/projects/sacddecoder/files/foo_dsd_converter (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_dsd_converter/) |
 | `foo_dsd_processor` | [sourceforge.net/projects/sacddecoder/files/foo_dsd_processor (sourceforge)](https://sourceforge.net/projects/sacddecoder/files/foo_dsd_processor/) |
+| `foo_dsp_alauda` | [moenium-AI/Alauda (github)](https://github.com/moenium-AI/Alauda) |
 | `foo_dsp_amp` | [foobar.hyv.fi/?view=foo_dsp_amp (hyv)](https://foobar.hyv.fi/?view=foo_dsp_amp) |
 | `foo_dsp_art_resampler` | [foobar.hyv.fi/?view=foo_dsp_art_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_art_resampler) |
 | `foo_dsp_clap` | [kartun83/foo_dsp_clap (github)](https://github.com/kartun83/foo_dsp_clap) |
@@ -120,6 +123,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_dsp_speex_resampler` | [foobar.hyv.fi/?view=foo_dsp_speex_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_speex_resampler) |
 | `foo_dsp_src_resampler` | [foobar.hyv.fi/?view=foo_dsp_src_resampler (hyv)](https://foobar.hyv.fi/?view=foo_dsp_src_resampler) |
 | `foo_dsp_stereoconv` | [foobar.hyv.fi/?view=foo_dsp_stereoconv (hyv)](https://foobar.hyv.fi/?view=foo_dsp_stereoconv) |
+| `foo_dsp_tube_simulator` | [moenium-AI/tube-simulator (github)](https://github.com/moenium-AI/tube-simulator) |
 | `foo_dsp_width` | [h1data/foo_dsp_width (github)](https://github.com/h1data/foo_dsp_width) |
 | `foo_duration_subsong_manager` | [M3MEMonster/Duration_and_Subsong_Manager (github)](https://github.com/M3MEMonster/Duration_and_Subsong_Manager) |
 | `foo_enhanced_playcount` | [kbuffington/foo_enhanced_playcount (github)](https://github.com/kbuffington/foo_enhanced_playcount) |
