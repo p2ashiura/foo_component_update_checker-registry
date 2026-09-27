@@ -33,7 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-276 components / 276件
+280 components / 280件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -168,6 +168,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_lnk` | [stuerp/foo_lnk (github)](https://github.com/stuerp/foo_lnk) |
 | `foo_lnk` | [stengerh/foo_lnk (github)](https://github.com/stengerh/foo_lnk) |
 | `foo_lock` | [stuerp/foo_lock (github)](https://github.com/stuerp/foo_lock) |
+| `foo_logitech_lcd` | [ectotropic/foo_logitech_lcd (github)](https://github.com/ectotropic/foo_logitech_lcd) |
 | `foo_loop` | [grimes2/foo_loop (github)](https://github.com/grimes2/foo_loop) |
 | `foo_loop_play_with_tags` | [litproca/foo_loop_play_with_tags (github)](https://github.com/litproca/foo_loop_play_with_tags) |
 | `foo_loop-sync` | [otoboku/foo_loop-sync (github)](https://github.com/otoboku/foo_loop-sync) |
@@ -191,6 +192,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_musicbrainz` | [kbuffington/foo_musicbrainz (github)](https://github.com/kbuffington/foo_musicbrainz) |
 | `foo_musicbrainz64` | [marc2k3.github.io/component/musicbrainz64 (marc2k3)](https://marc2k3.github.io/component/musicbrainz64/) |
 | `foo_nds` | [foobar.hyv.fi/?view=foo_nds (hyv)](https://foobar.hyv.fi/?view=foo_nds) |
+| `foo_nobreak` | [VadimLevo/foo_nobreak (github)](https://github.com/VadimLevo/foo_nobreak) |
 | `foo_nosleep` | [foobar.hyv.fi/?view=foo_nosleep (hyv)](https://foobar.hyv.fi/?view=foo_nosleep) |
 | `foo_nosleep_modern` | [LuckyTil/foo_nosleep_modern (github)](https://github.com/LuckyTil/foo_nosleep_modern) |
 | `foo_now_playing_helper` | [DeadSix27/foo_now_playing_helper (github)](https://github.com/DeadSix27/foo_now_playing_helper) |
@@ -284,6 +286,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_timebomb2` | [grimes2/foo_timebomb2 (github)](https://github.com/grimes2/foo_timebomb2) |
 | `foo_timesleep` | [shirafukayayoi/foo_timesleep (github)](https://github.com/shirafukayayoi/foo_timesleep) |
 | `foo_title` | [TheQwertiest/dotnet_title_bar (github)](https://github.com/TheQwertiest/dotnet_title_bar) |
+| `foo_trackpos` | [Chronial/foo_trackpos (github)](https://github.com/Chronial/foo_trackpos) |
 | `foo_trackpos_mod` | [ghDaYuYu/foo_trackpos_mod (github)](https://github.com/ghDaYuYu/foo_trackpos_mod) |
 | `foo_traycontrols` | [jame25/foo_traycontrols (github)](https://github.com/jame25/foo_traycontrols) |
 | `foo_tun_midi` | [kartun83/foo_tun_midi (github)](https://github.com/kartun83/foo_tun_midi) |
@@ -307,6 +310,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_vis_milk2` | [jecassis/foo_vis_milk2 (github)](https://github.com/jecassis/foo_vis_milk2) |
 | `foo_vis_milk2` | [Ci303/foo_vis_milk2_dx11-milkdrop2-fixes (github)](https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes) |
 | `foo_vis_oscilloscope_d2d` | [stengerh/foo_vis_oscilloscope_d2d (github)](https://github.com/stengerh/foo_vis_oscilloscope_d2d) |
+| `foo_vis_projectM` | [djdron/foo_vis_projectM (github)](https://github.com/djdron/foo_vis_projectM) |
 | `foo_vis_spectrum_analyzer` | [stuerp/foo_vis_spectrum_analyzer (github)](https://github.com/stuerp/foo_vis_spectrum_analyzer) |
 | `foo_whatsnew` | [stengerh/foo_whatsnew (github)](https://github.com/stengerh/foo_whatsnew) |
 | `foo_xspf_1` | [Chocobo1/foo_xspf_1 (github)](https://github.com/Chocobo1/foo_xspf_1) |

@@ -734,6 +734,12 @@
       "repo": "foo_lock"
     },
     {
+      "dll": "foo_logitech_lcd",
+      "source": "github",
+      "owner": "ectotropic",
+      "repo": "foo_logitech_lcd"
+    },
+    {
       "dll": "foo_loop",
       "source": "github",
       "owner": "grimes2",
@@ -868,6 +874,12 @@
       "dll": "foo_nds",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_nds"
+    },
+    {
+      "dll": "foo_nobreak",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_nobreak"
     },
     {
       "dll": "foo_nosleep",
@@ -1398,6 +1410,12 @@
       "repo": "dotnet_title_bar"
     },
     {
+      "dll": "foo_trackpos",
+      "source": "github",
+      "owner": "Chronial",
+      "repo": "foo_trackpos"
+    },
+    {
       "dll": "foo_trackpos_mod",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -1534,6 +1552,12 @@
       "source": "github",
       "owner": "stengerh",
       "repo": "foo_vis_oscilloscope_d2d"
+    },
+    {
+      "dll": "foo_vis_projectM",
+      "source": "github",
+      "owner": "djdron",
+      "repo": "foo_vis_projectM"
     },
     {
       "dll": "foo_vis_spectrum_analyzer",
