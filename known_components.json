@@ -115,14 +115,14 @@
     },
     {
       "dll": "foo_bpm",
-      "source": "github",
-      "owner": "stengerh",
-      "repo": "foo_bpm"
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_bpm"
     },
     {
       "dll": "foo_bpm",
-      "source": "hyv",
-      "url": "https://foobar.hyv.fi/?view=foo_bpm"
+      "source": "github",
+      "owner": "stengerh",
+      "repo": "foo_bpm"
     },
     {
       "dll": "foo_bpmkey",
@@ -231,7 +231,7 @@
     {
       "dll": "foo_discord_rich",
       "source": "github",
-      "owner": "TheQwertiest",
+      "owner": "s0hv",
       "repo": "foo_discord_rich"
     },
     {
@@ -249,13 +249,13 @@
     {
       "dll": "foo_discord_rich",
       "source": "github",
-      "owner": "wsnrq",
+      "owner": "TheQwertiest",
       "repo": "foo_discord_rich"
     },
     {
       "dll": "foo_discord_rich",
       "source": "github",
-      "owner": "s0hv",
+      "owner": "wsnrq",
       "repo": "foo_discord_rich"
     },
     {
@@ -614,6 +614,11 @@
       "url": "https://foobar.hyv.fi/?view=foo_input_halac"
     },
     {
+      "dll": "foo_input_hqlc",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_input_hqlc"
+    },
+    {
       "dll": "foo_input_ncm",
       "source": "github",
       "owner": "pnck",
@@ -664,6 +669,11 @@
       "url": "https://sourceforge.net/projects/sacddecoder/files/macOS%20%2BWindows/foo_input_udsd/"
     },
     {
+      "dll": "foo_input_v2m_alpha",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_input_v2m_alpha"
+    },
+    {
       "dll": "foo_input_vgmstream",
       "source": "github",
       "owner": "vgmstream",
@@ -700,14 +710,14 @@
     },
     {
       "dll": "foo_lirc",
-      "source": "sourceforge",
-      "url": "https://sourceforge.net/projects/foolirc/files/foo_lirc/"
-    },
-    {
-      "dll": "foo_lirc",
       "source": "github",
       "owner": "izanuda",
       "repo": "foo_lirc"
+    },
+    {
+      "dll": "foo_lirc",
+      "source": "sourceforge",
+      "url": "https://sourceforge.net/projects/foolirc/files/foo_lirc/"
     },
     {
       "dll": "foo_listenbrainz2",
@@ -718,13 +728,13 @@
     {
       "dll": "foo_lnk",
       "source": "github",
-      "owner": "stuerp",
+      "owner": "stengerh",
       "repo": "foo_lnk"
     },
     {
       "dll": "foo_lnk",
       "source": "github",
-      "owner": "stengerh",
+      "owner": "stuerp",
       "repo": "foo_lnk"
     },
     {
@@ -950,6 +960,12 @@
       "dll": "foo_opusenc",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_opusenc"
+    },
+    {
+      "dll": "foo_osd",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_osd"
     },
     {
       "dll": "foo_out_asio+dsd",
@@ -1299,13 +1315,13 @@
     {
       "dll": "foo_statistics",
       "source": "github",
-      "owner": "stuerp",
+      "owner": "grimes2",
       "repo": "foo_statistics"
     },
     {
       "dll": "foo_statistics",
       "source": "github",
-      "owner": "grimes2",
+      "owner": "stuerp",
       "repo": "foo_statistics"
     },
     {
@@ -1428,6 +1444,11 @@
       "repo": "foo_traycontrols"
     },
     {
+      "dll": "foo_truepeak",
+      "source": "hyv",
+      "url": "https://foobar.hyv.fi/?view=foo_truepeak"
+    },
+    {
       "dll": "foo_tun_midi",
       "source": "github",
       "owner": "kartun83",
@@ -1538,14 +1559,14 @@
     {
       "dll": "foo_vis_milk2",
       "source": "github",
-      "owner": "jecassis",
-      "repo": "foo_vis_milk2"
+      "owner": "Ci303",
+      "repo": "foo_vis_milk2_dx11-milkdrop2-fixes"
     },
     {
       "dll": "foo_vis_milk2",
       "source": "github",
-      "owner": "Ci303",
-      "repo": "foo_vis_milk2_dx11-milkdrop2-fixes"
+      "owner": "jecassis",
+      "repo": "foo_vis_milk2"
     },
     {
       "dll": "foo_vis_oscilloscope_d2d",
