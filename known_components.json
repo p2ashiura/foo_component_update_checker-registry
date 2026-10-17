@@ -68,6 +68,12 @@
       "repo": "Audio-Wizard"
     },
     {
+      "dll": "foo_audiolens",
+      "source": "github",
+      "owner": "Oxensepp",
+      "repo": "audiolens-seekbar"
+    },
+    {
       "dll": "foo_audiomd5",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_audiomd5"
@@ -534,6 +540,12 @@
       "source": "github",
       "owner": "ttsping",
       "repo": "foo_flowin"
+    },
+    {
+      "dll": "foo_fomalhaut",
+      "source": "github",
+      "owner": "Oxensepp",
+      "repo": "fomalhaut"
     },
     {
       "dll": "foo_gamesenseoled",

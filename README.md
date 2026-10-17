@@ -33,7 +33,7 @@ add or edit an entry there, please update this table in the same commit
 この表は`known_components.json`と手動で同期している。エントリを追加・編集する際は、
 同じコミット(またはPull Request)でこの表も更新すること。
 
-284 components / 284件
+286 components / 286件
 
 | DLL name | Source repository |
 | --- | --- |
@@ -48,6 +48,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_artwork` | [jame25/foo_artwork (github)](https://github.com/jame25/foo_artwork) |
 | `foo_atelier_queuebridge` | [Wffv9FNa/foo_atelier_queuebridge (github)](https://github.com/Wffv9FNa/foo_atelier_queuebridge) |
 | `foo_audio_wizard` | [The-Wizardium/Audio-Wizard (github)](https://github.com/The-Wizardium/Audio-Wizard) |
+| `foo_audiolens` | [Oxensepp/audiolens-seekbar (github)](https://github.com/Oxensepp/audiolens-seekbar) |
 | `foo_audiomd5` | [foobar.hyv.fi/?view=foo_audiomd5 (hyv)](https://foobar.hyv.fi/?view=foo_audiomd5) |
 | `foo_autoenqueue` | [pienkowb/foo_autoenqueue (github)](https://github.com/pienkowb/foo_autoenqueue) |
 | `foo_autoplay` | [sourceforge.net/projects/fooautoplay/files/fooautoplay (sourceforge)](https://sourceforge.net/projects/fooautoplay/files/fooautoplay/) |
@@ -133,6 +134,7 @@ add or edit an entry there, please update this table in the same commit
 | `foo_fix` | [ttsping/foo_fix (github)](https://github.com/ttsping/foo_fix) |
 | `foo_flex_dsp` | [ghDaYuYu/foo_flex_dsp (github)](https://github.com/ghDaYuYu/foo_flex_dsp) |
 | `foo_flowin` | [ttsping/foo_flowin (github)](https://github.com/ttsping/foo_flowin) |
+| `foo_fomalhaut` | [Oxensepp/fomalhaut (github)](https://github.com/Oxensepp/fomalhaut) |
 | `foo_gamesenseoled` | [weespin/foo_gamesenseoled (github)](https://github.com/weespin/foo_gamesenseoled) |
 | `foo_gdrive_stream` | [shirafukayayoi/foo_gdrive_stream (github)](https://github.com/shirafukayayoi/foo_gdrive_stream) |
 | `foo_hackrf` | [jocover/foo_hackrf (github)](https://github.com/jocover/foo_hackrf) |
