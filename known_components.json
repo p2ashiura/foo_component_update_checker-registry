@@ -114,6 +114,12 @@
       "repo": "foo_bestversion"
     },
     {
+      "dll": "foo_bettertabs",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_bettertabs"
+    },
+    {
       "dll": "foo_bookbar",
       "source": "github",
       "owner": "michaldziwisz",
@@ -207,6 +213,12 @@
       "repo": "foo_cuefixer"
     },
     {
+      "dll": "foo_cuepause",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_cuepause"
+    },
+    {
       "dll": "foo_cuesheet_creator",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_cuesheet_creator"
@@ -227,6 +239,18 @@
       "source": "github",
       "owner": "ghDaYuYu",
       "repo": "foo_discogger"
+    },
+    {
+      "dll": "foo_discord_foobar_rpc",
+      "source": "github",
+      "owner": "reikatze",
+      "repo": "discord-foobar-rpc"
+    },
+    {
+      "dll": "foo_discord_listening",
+      "source": "github",
+      "owner": "Carinoasd",
+      "repo": "foo_discord_listening"
     },
     {
       "dll": "foo_discord_presence",
@@ -323,6 +347,12 @@
       "dll": "foo_dsp_art_resampler",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_dsp_art_resampler"
+    },
+    {
+      "dll": "foo_dsp_bassenhancer",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_dsp_bassenhancer"
     },
     {
       "dll": "foo_dsp_clap",
@@ -507,6 +537,18 @@
       "repo": "foo_enhanced_playcount"
     },
     {
+      "dll": "foo_enhanced_spectrum_analyzer",
+      "source": "github",
+      "owner": "Pav-Osmolski",
+      "repo": "foo_enhanced_spectrum_analyzer"
+    },
+    {
+      "dll": "foo_enhancedplaylisttabs",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_enhancedplaylisttabs"
+    },
+    {
       "dll": "foo_external_tags",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_external_tags"
@@ -522,6 +564,12 @@
       "source": "github",
       "owner": "VadimLevo",
       "repo": "foo_filename_editor"
+    },
+    {
+      "dll": "foo_filetree",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_filetree"
     },
     {
       "dll": "foo_fix",
@@ -552,6 +600,12 @@
       "source": "github",
       "owner": "weespin",
       "repo": "foo_gamesenseoled"
+    },
+    {
+      "dll": "foo_gapless",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_gapless"
     },
     {
       "dll": "foo_gdrive_stream",
@@ -619,6 +673,12 @@
       "dll": "foo_input_dvda",
       "source": "sourceforge",
       "url": "https://sourceforge.net/projects/dvdadecoder/files/foo_input_dvda/"
+    },
+    {
+      "dll": "foo_input_fak",
+      "source": "github",
+      "owner": "inteliboy",
+      "repo": "foo_input_fak"
     },
     {
       "dll": "foo_input_halac",
@@ -786,10 +846,22 @@
       "repo": "LyricsAITranslator"
     },
     {
+      "dll": "foo_lyricus",
+      "source": "github",
+      "owner": "smjda0719",
+      "repo": "foo_lyricus"
+    },
+    {
       "dll": "foo_m3ucue_saver",
       "source": "github",
       "owner": "VadimLevo",
       "repo": "foo_m3ucue_saver"
+    },
+    {
+      "dll": "foo_makegapless",
+      "source": "github",
+      "owner": "VadimLevo",
+      "repo": "foo_makegapless"
     },
     {
       "dll": "foo_maloja",
@@ -850,6 +922,12 @@
       "source": "github",
       "owner": "ajitnilakantan",
       "repo": "foo_mlsync"
+    },
+    {
+      "dll": "foo_modernplaylist",
+      "source": "github",
+      "owner": "jame25",
+      "repo": "foo_modernplaylist"
     },
     {
       "dll": "foo_monthly_stats",
@@ -943,6 +1021,12 @@
       "source": "github",
       "owner": "jame25",
       "repo": "foo_nsync"
+    },
+    {
+      "dll": "foo_onscreendisplay",
+      "source": "github",
+      "owner": "HongYue1",
+      "repo": "foo_onscreendisplay"
     },
     {
       "dll": "foo_openhacks",
@@ -1071,6 +1155,12 @@
       "url": "https://foobar.hyv.fi/?view=foo_playlist_info"
     },
     {
+      "dll": "foo_playlist_sync",
+      "source": "github",
+      "owner": "r1vage",
+      "repo": "foo_playlist_sync"
+    },
+    {
       "dll": "foo_playlistclear",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_playlistclear"
@@ -1173,6 +1263,12 @@
       "source": "github",
       "owner": "ptytb",
       "repo": "foo_rehearsal"
+    },
+    {
+      "dll": "foo_remote_art_fix",
+      "source": "github",
+      "owner": "JiayuYangX",
+      "repo": "foo_remote_art_fix"
     },
     {
       "dll": "foo_renamer",
@@ -1283,6 +1379,12 @@
       "repo": "foo_skipcount"
     },
     {
+      "dll": "foo_slowed_reverb",
+      "source": "github",
+      "owner": "KimHerV",
+      "repo": "foo_slowed_reverb"
+    },
+    {
       "dll": "foo_sonic_refiner",
       "source": "github",
       "owner": "Maximum0303",
@@ -1293,6 +1395,12 @@
       "source": "github",
       "owner": "zetmar-collab",
       "repo": "foo_soundcloud"
+    },
+    {
+      "dll": "foo_spectrum_compare",
+      "source": "github",
+      "owner": "a1waysbeta",
+      "repo": "foo_spectrum_compare"
     },
     {
       "dll": "foo_spectrum_seekbar",
@@ -1395,6 +1503,12 @@
       "dll": "foo_tag_normalizer",
       "source": "hyv",
       "url": "https://foobar.hyv.fi/?view=foo_tag_normalizer"
+    },
+    {
+      "dll": "foo_tags",
+      "source": "github",
+      "owner": "aro-1790",
+      "repo": "foo_tags"
     },
     {
       "dll": "foo_taskbar_playback_progress_bar",
@@ -1557,6 +1671,18 @@
       "repo": "foo_uie_wsh_panel_mod_plus"
     },
     {
+      "dll": "foo_ultimate_playcount",
+      "source": "github",
+      "owner": "r1vage",
+      "repo": "ultimate-playcount"
+    },
+    {
+      "dll": "foo_utag",
+      "source": "github",
+      "owner": "smoralis",
+      "repo": "foo_utag"
+    },
+    {
       "dll": "foo_vbookmark",
       "source": "github",
       "owner": "ghDaYuYu",
@@ -1597,6 +1723,12 @@
       "source": "github",
       "owner": "stuerp",
       "repo": "foo_vis_spectrum_analyzer"
+    },
+    {
+      "dll": "foo_wave_minibar_mod",
+      "source": "github",
+      "owner": "Pav-Osmolski",
+      "repo": "foo_wave_minibar_mod-patched"
     },
     {
       "dll": "foo_whatsnew",
